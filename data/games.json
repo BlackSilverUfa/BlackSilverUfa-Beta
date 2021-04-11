@@ -2054,6 +2054,14 @@
     ]
   },
   {
+    "name": "Silent Hill 3",
+    "category": "ongoing",
+    "id": "sh3",
+    "streams": [
+      { "name": "1", "segment": "983663320" }
+    ]
+  },
+  {
     "name": "Outriders",
     "category": "ongoing",
     "id": "outriders",
