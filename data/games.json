@@ -303,7 +303,8 @@
       { "name": "Granny Simulator", "segment": "855161482", "start": 5284 },
       { "name": "Devour / Hand Simulator: Horror", "segment": "895496717" },
       { "name": "Draw & Guess / Unlasting Horror / Hide and Seek / Golf Party", "segment": "957785419" },
-      { "name": "Knockout City (WLG, Bale)", "segment": "975061581", "start": 11486 }
+      { "name": "Knockout City (WLG, Bale)", "segment": "975061581", "start": 11486 },
+      { "name": "First Class Trouble", "segment": "984801715", "start": 13557 }
     ]
   },
   {
@@ -328,7 +329,8 @@
     "id": "gartic-phone",
     "streams": [
       { "name": "1", "segment": "877211836", "start": 10785 },
-      { "name": "2", "segment": "886277729" }
+      { "name": "2", "segment": "886277729" },
+      { "name": "3", "segment": "984801715", "start": 9983 }
     ]
   },
   {
@@ -2032,7 +2034,8 @@
       { "name": "Spacebase Startopia", "segment": "967584774" },
       { "name": "Super Seducer 3", "segment": "971240375" },
       { "name": "Last Oasis", "segment": "972475218" },
-      { "name": "Oddworld: Soulstorm", "segment": "979835510" }
+      { "name": "Oddworld: Soulstorm", "segment": "979835510" },
+      { "name": "Say No! More", "segment": "984801715" }
     ]
   },
   {

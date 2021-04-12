@@ -8169,7 +8169,6 @@
     "youtube": "YCPy_beJdvg", "abs_start": 0, "abs_end": 36801, "duration": 36801,
     "name": "Yakuza: Like a Dragon #11",
     "date": "2021-03-16",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/951366585.torrent",
     "games": ["yakuza-like-dragon"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v951366585.ass"
   },
@@ -8365,5 +8364,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/983663320.torrent",
     "games": ["sh3"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v983663320.ass"
+  },
+  "984801715": {
+    "abs_start": 0, "abs_end": 22306, "duration": 0,
+    "name": "Say No! More / Gartic Phone #3 / First Class Trouble",
+    "date": "2021-04-12",
+    "direct": "https://bsufiles.thedrhax.pw/streams/984801715.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/984801715.torrent",
+    "games": ["first", "gartic-phone", "co-op"],
+    "subtitles": "https://blacksilverufa.github.io/chats-2021/v984801715.ass"
   }
 }
