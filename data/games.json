@@ -2058,10 +2058,11 @@
   },
   {
     "name": "Silent Hill 3",
-    "category": "ongoing",
+    "category": "finished",
     "id": "sh3",
     "streams": [
-      { "name": "1", "segment": "983663320" }
+      { "name": "1", "segment": "983663320" },
+      { "name": "2", "segment": "985933335" }
     ]
   },
   {
@@ -2596,7 +2597,8 @@
       { "name": "13", "segment": "909697737", "start": 18137 },
       { "name": "14", "segment": "927781155", "start": 25413 },
       { "name": "15", "segment": "937766301", "start": 14658 },
-      { "name": "16", "segment": "958844668", "start": 18173 }
+      { "name": "16", "segment": "958844668", "start": 18173 },
+      { "name": "17", "segment": "985933335", "start": 17281 }
     ]
   },
   {

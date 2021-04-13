@@ -8372,5 +8372,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/984801715.torrent",
     "games": ["first", "gartic-phone", "co-op"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v984801715.ass"
+  },
+  "985933335": {
+    "abs_start": 0, "abs_end": 24076, "duration": 0,
+    "name": "Silent Hill 3 #2 / SnowRunner #17",
+    "date": "2021-04-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/985933335.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/985933335.torrent",
+    "games": ["sh3", "snowrunner"],
+    "subtitles": "https://blacksilverufa.github.io/chats-2021/v985933335.ass"
   }
 }
