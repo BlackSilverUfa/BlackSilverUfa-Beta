@@ -1138,7 +1138,8 @@
       { "name": "неПрофессиональный The Game Awards 2020", "segment": "832197729.1", "start": 45241 },
       { "name": "State of Play 2021", "segment": "927781155", "start": 32306 },
       { "name": "ROG Phone 5 Launch Event", "segment": "943938218" },
-      { "name": "Square Enix Presents (Весна 2021)", "segment": "953865835", "start": 11085 }
+      { "name": "Square Enix Presents (Весна 2021)", "segment": "953865835", "start": 11085 },
+      { "name": "Resident Evil Showcase (Апрель 2021)", "segment": "988804108", "start": 1627 }
     ]
   },
   {
@@ -2035,7 +2036,8 @@
       { "name": "Super Seducer 3", "segment": "971240375" },
       { "name": "Last Oasis", "segment": "972475218" },
       { "name": "Oddworld: Soulstorm", "segment": "979835510" },
-      { "name": "Say No! More", "segment": "984801715" }
+      { "name": "Say No! More", "segment": "984801715" },
+      { "name": "Resident Evil Re:Verse", "segment": "988804108" }
     ]
   },
   {
