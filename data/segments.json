@@ -8211,7 +8211,6 @@
     "youtube": "er5dLLEL0rU", "abs_start": 0, "abs_end": 25367, "duration": 25367,
     "name": "The Eternal Cylinder / Wanted Raccoon / SnowRunner #16",
     "date": "2021-03-22",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/958844668.torrent",
     "games": ["first", "snowrunner"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v958844668.ass"
   },
@@ -8402,10 +8401,19 @@
   },
   "989503848": {
     "youtube": "PXQfe8WkuNY", "official": false, "abs_start": 0, "abs_end": 21588, "duration": 21588,
-    "name": "Demon Skin / Enlisted",
+    "name": "Demon Skin / Enlisted #1",
     "date": "2021-04-16",
     "torrent": "https://bsufiles.thedrhax.pw/streams/989503848.torrent",
-    "games": ["first"],
+    "games": ["first", "enlisted"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v989503848.ass"
+  },
+  "990810001": {
+    "abs_start": 0, "abs_end": 20627, "duration": 0,
+    "name": "Зайчик (Tiny Bunny) #1 / Enlisted #2",
+    "date": "2021-04-17",
+    "direct": "https://bsufiles.thedrhax.pw/streams/990810001.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/990810001.torrent",
+    "games": ["tiny-bunny", "enlisted"],
+    "subtitles": "https://blacksilverufa.github.io/chats-2021/v990810001.ass"
   }
 }

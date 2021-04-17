@@ -1527,6 +1527,14 @@
     ]
   },
   {
+    "name": "Зайчик (Tiny Bunny)",
+    "category": "ongoing",
+    "id": "tiny-bunny",
+    "streams": [
+      { "name": "1", "segment": "990810001" }
+    ]
+  },
+  {
     "name": "Evil Inside",
     "category": "finished",
     "id": "evil-inside",
@@ -2038,7 +2046,16 @@
       { "name": "Oddworld: Soulstorm", "segment": "979835510" },
       { "name": "Say No! More", "segment": "984801715" },
       { "name": "Resident Evil Re:Verse", "segment": "988804108" },
-      { "name": "Demon Skin / Enlisted", "segment": "989503848" }
+      { "name": "Demon Skin", "segment": "989503848" }
+    ]
+  },
+  {
+    "name": "Enlisted",
+    "category": "co-op",
+    "id": "enlisted",
+    "streams": [
+      { "name": "1", "segment": "989503848", "start": 7262 },
+      { "name": "2", "segment": "990810001", "start": 7511 }
     ]
   },
   {
