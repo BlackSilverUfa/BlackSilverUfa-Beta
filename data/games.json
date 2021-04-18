@@ -1517,13 +1517,21 @@
       { "name": "SCP-002: The \"Living\" Room / SCP-1437: A Hole to Another Place", "segment": "851535429", "start": 4047 },
       { "name": "Remothered: Broken Porcelain", "segment": "860924750", "start": 10447 },
       { "name": "Noch (демо) / Dom Rusalok", "segment": "869571796" },
-      { "name": "Resident Evil Village (демо)", "segment": "883419848" },
       { "name": "The Medium", "segment": "891206240" },
       { "name": "NUTS", "segment": "901835689", "start": 9828 },
       { "name": "Narita Boy (демо)", "segment": "905895866", "start": 12342 },
       { "name": "Voyage", "segment": "937766301" },
       { "name": "Mundaun", "segment": "952632063" },
       { "name": "Paradise Lost", "segment": "961225183" }
+    ]
+  },
+  {
+    "name": "Resident Evil Village",
+    "category": "ongoing",
+    "id": "re8",
+    "streams": [
+      { "name": "Maiden (демо)", "segment": "883419848" },
+      { "name": "Gameplay (демо) / Maiden (демо)", "segment": "992035730", "start": 14511 }
     ]
   },
   {
@@ -2046,7 +2054,8 @@
       { "name": "Oddworld: Soulstorm", "segment": "979835510" },
       { "name": "Say No! More", "segment": "984801715" },
       { "name": "Resident Evil Re:Verse", "segment": "988804108" },
-      { "name": "Demon Skin", "segment": "989503848" }
+      { "name": "Demon Skin", "segment": "989503848" },
+      { "name": "Resident Evil Zero", "segment": "992035730" }
     ]
   },
   {

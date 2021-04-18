@@ -7829,9 +7829,9 @@
   },
   "883419848": {
     "youtube": "dn9uQy2eePE", "official": false, "abs_start": 0, "abs_end": 24484, "duration": 24484,
-    "name": "Resident Evil Village (демо) / Resident Evil 7 (Madhouse) #5",
+    "name": "Resident Evil Village - Maiden (демо) / Resident Evil 7 (Madhouse) #5",
     "date": "2021-01-22",
-    "games": ["single", "re7"],
+    "games": ["re8", "re7"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v883419848.ass"
   },
   "886277729": {
@@ -8218,7 +8218,6 @@
     "youtube": "dd2nTLH_EGs", "official": false, "abs_start": 0, "abs_end": 21077, "duration": 21077,
     "name": "Paradise Lost",
     "date": "2021-03-24",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/961225183.torrent",
     "games": ["single"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v961225183.ass"
   },
@@ -8414,5 +8413,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/990810001.torrent",
     "games": ["tiny-bunny", "enlisted"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v990810001.ass"
+  },
+  "992035730": {
+    "abs_start": 0, "abs_end": 16825, "duration": 0,
+    "name": "Resident Evil Zero / Resident Evil Village - Gameplay (демо) / Resident Evil Village - Maiden (демо)",
+    "date": "2021-04-18",
+    "direct": "https://bsufiles.thedrhax.pw/streams/992035730.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/992035730.torrent",
+    "games": ["first", "re8"],
+    "subtitles": "https://blacksilverufa.github.io/chats-2021/v992035730.ass"
   }
 }
