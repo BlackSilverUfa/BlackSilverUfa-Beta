@@ -8408,10 +8408,9 @@
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v989503848.ass"
   },
   "990810001": {
-    "abs_start": 0, "abs_end": 20627, "duration": 0,
+    "youtube": "G97hojMszI0", "official": false, "abs_start": 0, "abs_end": 20603, "duration": 20603,
     "name": "Зайчик (Tiny Bunny) #1 / Enlisted #2",
     "date": "2021-04-17",
-    "direct": "https://bsufiles.thedrhax.pw/streams/990810001.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/990810001.torrent",
     "games": ["tiny-bunny", "enlisted"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v990810001.ass"
