@@ -1539,7 +1539,8 @@
     "category": "ongoing",
     "id": "tiny-bunny",
     "streams": [
-      { "name": "1", "segment": "990810001" }
+      { "name": "Эпизод 1", "segment": "990810001" },
+      { "name": "Эпизод 2", "segment": "995413784" }
     ]
   },
   {
@@ -2064,7 +2065,8 @@
     "id": "enlisted",
     "streams": [
       { "name": "1", "segment": "989503848", "start": 7262 },
-      { "name": "2", "segment": "990810001", "start": 7511 }
+      { "name": "2", "segment": "990810001", "start": 7511 },
+      { "name": "3", "segment": "995413784", "start": 13454 }
     ]
   },
   {

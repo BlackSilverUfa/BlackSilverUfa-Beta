@@ -8225,7 +8225,6 @@
     "youtube": "Xnw2RKMge-c", "official": false, "abs_start": 0, "abs_end": 8275, "duration": 8275,
     "name": "Doom Eternal #1 (заново)",
     "date": "2021-03-25",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/961777772.torrent",
     "games": ["doom-eternal"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v961777772.ass"
   },
@@ -8408,7 +8407,7 @@
   },
   "990810001": {
     "youtube": "G97hojMszI0", "official": false, "abs_start": 0, "abs_end": 20603, "duration": 20603,
-    "name": "Зайчик (Tiny Bunny) #1 / Enlisted #2",
+    "name": "Зайчик (Tiny Bunny) - Эпизод 1 / Enlisted #2",
     "date": "2021-04-17",
     "torrent": "https://bsufiles.thedrhax.pw/streams/990810001.torrent",
     "games": ["tiny-bunny", "enlisted"],
@@ -8421,5 +8420,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/992035730.torrent",
     "games": ["first", "re8"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v992035730.ass"
+  },
+  "995413784": {
+    "abs_start": 0, "abs_end": 26419, "duration": 0,
+    "name": "Зайчик (Tiny Bunny) - Эпизод 2 / Enlisted #3",
+    "date": "2021-04-21",
+    "direct": "https://bsufiles.thedrhax.pw/streams/995413784.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/995413784.torrent",
+    "games": ["tiny-bunny", "enlisted"],
+    "subtitles": "https://blacksilverufa.github.io/chats-2021/v995413784.ass"
   }
 }
