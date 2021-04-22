@@ -8232,7 +8232,6 @@
     "youtube": "a0TW8-UwLFU", "official": false, "abs_start": 0, "abs_end": 12765, "duration": 12765,
     "name": "ROG Flow X13 / Evil Inside - Прохождение / Crash Bandicoot 4: It's About Time #2 (заново)",
     "date": "2021-03-25",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/962439245.torrent",
     "games": ["unboxing", "evil-inside", "crash-bandicoot-4"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v962439245.ass"
   },
@@ -8240,7 +8239,6 @@
     "youtube": "tg2aLiQqiCs", "official": false, "abs_start": 0, "abs_end": 23073, "duration": 23073,
     "name": "It Takes Two #1",
     "date": "2021-03-26",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/963666663.torrent",
     "games": ["it-takes-two"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v963666663.ass"
   },
@@ -8428,5 +8426,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/995413784.torrent",
     "games": ["tiny-bunny", "enlisted"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v995413784.ass"
+  },
+  "996609423": {
+    "abs_start": 0, "abs_end": 27649, "duration": 0,
+    "name": "NieR Replicant",
+    "date": "2021-04-22",
+    "direct": "https://bsufiles.thedrhax.pw/streams/996609423.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/996609423.torrent",
+    "games": ["first"],
+    "subtitles": "https://blacksilverufa.github.io/chats-2021/v996609423.ass"
   }
 }
