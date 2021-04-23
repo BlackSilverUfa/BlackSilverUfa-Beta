@@ -8316,9 +8316,10 @@
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v979229370.ass"
   },
   "979835510": {
-    "youtube": "dPD_dbx_EXw", "official": false, "abs_start": 0, "abs_end": 24915, "duration": 24915,
+    "abs_start": 0, "abs_end": 24928, "duration": 0,
     "name": "Oddworld: Soulstorm / Silent Hill #1",
     "date": "2021-04-08",
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/979835510.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/979835510.torrent",
     "games": ["first", "sh"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v979835510.ass"
