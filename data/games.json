@@ -2058,8 +2058,16 @@
       { "name": "Resident Evil Re:Verse", "segment": "988804108" },
       { "name": "Demon Skin", "segment": "989503848" },
       { "name": "Resident Evil Zero", "segment": "992035730" },
-      { "name": "NieR Replicant", "segment": "996609423" },
       { "name": "Don't Forget Me", "segment": "997843732" }
+    ]
+  },
+  {
+    "name": "NieR Replicant",
+    "category": "ongoing",
+    "id": "nier-replicant",
+    "streams": [
+      { "name": "1", "segment": "996609423" },
+      { "name": "2", "segment": "999099020" }
     ]
   },
   {
