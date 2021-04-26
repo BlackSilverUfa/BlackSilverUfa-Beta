@@ -301,10 +301,20 @@
       { "name": "Cake Bash / Bake 'n Switch / Never Breakup / Labyrinthine / Escape From Kyoto House", "segment": "795935885", "start": 16593 },
       { "name": "In Silence", "segment": "827759529", "start": 8249 },
       { "name": "Granny Simulator", "segment": "855161482", "start": 5284 },
-      { "name": "Devour / Hand Simulator: Horror", "segment": "895496717" },
+      { "name": "Hand Simulator: Horror", "segment": "895496717", "start": 4891 },
       { "name": "Draw & Guess / Unlasting Horror / Hide and Seek / Golf Party", "segment": "957785419" },
       { "name": "Knockout City (WLG, Bale)", "segment": "975061581", "start": 11486 },
-      { "name": "First Class Trouble", "segment": "984801715", "start": 13557 }
+      { "name": "First Class Trouble", "segment": "984801715", "start": 13557 },
+      { "name": "Chivalry 2", "segment": "1000457538" }
+    ]
+  },
+  {
+    "name": "Devour",
+    "category": "co-op",
+    "id": "devour",
+    "streams": [
+      { "name": "1", "segment": "895496717" },
+      { "name": "2", "segment": "1000457538", "start": 10780 }
     ]
   },
   {
@@ -1532,7 +1542,8 @@
     "id": "re8",
     "streams": [
       { "name": "Maiden (демо)", "segment": "883419848" },
-      { "name": "Maiden (демо) / Gameplay (демо)", "segment": "992035730", "start": 13076 }
+      { "name": "Maiden (демо) / Gameplay (демо)", "segment": "992035730", "start": 13076 },
+      { "name": "Gameplay 2 (демо)", "segment": "1000457538", "start": 8123 }
     ]
   },
   {
