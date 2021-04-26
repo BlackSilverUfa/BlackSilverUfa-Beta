@@ -2078,7 +2078,8 @@
     "id": "nier-replicant",
     "streams": [
       { "name": "1", "segment": "996609423" },
-      { "name": "2", "segment": "999099020" }
+      { "name": "2", "segment": "999099020" },
+      { "name": "3", "segment": "1001445798" }
     ]
   },
   {

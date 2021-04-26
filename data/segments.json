@@ -839,14 +839,6 @@
     "date": "2019-01-24",
     "games": ["life-is-strange-2"]
   },
-  "1000457538": {
-    "youtube": "m4pu3_6AA4Q", "official": false, "abs_start": 0, "abs_end": 17102, "duration": 17102,
-    "name": "Chivalry 2 / Resident Evil Village - Gameplay 2 (демо) / Devour #2",
-    "date": "2021-04-25",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1000457538.torrent",
-    "games": ["co-op", "re8", "devour"],
-    "subtitles": "https://blacksilverufa.github.io/chats-2021/v1000457538.ass"
-  },
   "126330909": {
     "youtube": "G5waS5gtIlg", "abs_start": 0, "abs_end": 15389, "duration": 15389,
     "name": "The Legend of Zelda: Breath of the Wild #1",
@@ -8269,7 +8261,6 @@
     "youtube": "Y9naef8VpXI", "official": false, "abs_start": 0, "abs_end": 17333, "duration": 17333,
     "name": "Spacebase Startopia",
     "date": "2021-03-29",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/967584774.torrent",
     "games": ["first"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v967584774.ass"
   },
@@ -8457,5 +8448,21 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/999099020.torrent",
     "games": ["nier-replicant"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v999099020.ass"
+  },
+  "1000457538": {
+    "youtube": "m4pu3_6AA4Q", "official": false, "abs_start": 0, "abs_end": 17102, "duration": 17102,
+    "name": "Chivalry 2 / Resident Evil Village - Gameplay 2 (демо) / Devour #2",
+    "date": "2021-04-25",
+    "games": ["co-op", "re8", "devour"],
+    "subtitles": "https://blacksilverufa.github.io/chats-2021/v1000457538.ass"
+  },
+  "1001445798": {
+    "abs_start": 0, "abs_end": 24914, "duration": 0,
+    "name": "NieR Replicant #3",
+    "date": "2021-04-26",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1001445798.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1001445798.torrent",
+    "games": ["nier-replicant"],
+    "subtitles": "https://blacksilverufa.github.io/chats-2021/v1001445798.ass"
   }
 }
