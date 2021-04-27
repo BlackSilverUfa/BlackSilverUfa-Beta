@@ -7161,10 +7161,9 @@
     "subtitles": "https://blacksilverufa.github.io/chats-2020/v755571254.ass"
   },
   "757370746": {
-    "abs_start": 0, "abs_end": 22044, "duration": 0,
+    "youtube": "i1r0epPVTFA", "official": false, "abs_start": 0, "abs_end": 22043, "duration": 22043,
     "name": "Vampire: The Masquerade - Bloodlines #7",
     "date": "2020-10-01",
-    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/757370746.mp4",
     "games": ["vampire-masquerade"],
     "subtitles": "https://blacksilverufa.github.io/chats-2020/v757370746.ass"
   },
@@ -8460,7 +8459,6 @@
     "youtube": "QOsmaTlbIrc", "official": false, "abs_start": 0, "abs_end": 24925, "duration": 24925,
     "name": "NieR Replicant #3",
     "date": "2021-04-26",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1001445798.torrent",
     "games": ["nier-replicant"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v1001445798.ass"
   }
