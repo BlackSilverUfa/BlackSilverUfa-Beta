@@ -8463,10 +8463,9 @@
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v1001445798.ass"
   },
   "1002673460": {
-    "abs_start": 0, "abs_end": 7196, "duration": 0,
+    "youtube": "-vMwm_TYa-4", "official": false, "abs_start": 0, "abs_end": 7180, "duration": 7180,
     "name": "NieR Replicant #4",
     "date": "2021-04-27",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1002673460.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1002673460.torrent",
     "games": ["nier-replicant"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v1002673460.ass"
