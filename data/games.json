@@ -305,7 +305,8 @@
       { "name": "Draw & Guess / Unlasting Horror / Hide and Seek / Golf Party", "segment": "957785419" },
       { "name": "Knockout City (WLG, Bale)", "segment": "975061581", "start": 11486 },
       { "name": "First Class Trouble", "segment": "984801715", "start": 13557 },
-      { "name": "Chivalry 2", "segment": "1000457538" }
+      { "name": "Chivalry 2", "segment": "1000457538" },
+      { "name": "Ranch Simulator / Horror Squad", "segment": "1003719769", "start": 7739 }
     ]
   },
   {
@@ -969,7 +970,8 @@
       { "name": "25", "segment": "690295728", "start": 16885 },
       { "name": "26", "segment": "795935885", "start": 25899 },
       { "name": "27", "segment": "886277729", "start": 18027 },
-      { "name": "28", "segment": "895496717", "start": 14823 }
+      { "name": "28", "segment": "895496717", "start": 14823 },
+      { "name": "29", "segment": "1003719769", "start": 16579 }
     ]
   },
   {
@@ -1533,7 +1535,8 @@
       { "name": "Narita Boy (демо)", "segment": "905895866", "start": 12342 },
       { "name": "Voyage", "segment": "937766301" },
       { "name": "Mundaun", "segment": "952632063" },
-      { "name": "Paradise Lost", "segment": "961225183" }
+      { "name": "Paradise Lost", "segment": "961225183" },
+      { "name": "Scene Investigators (демо)", "segment": "1003719769" }
     ]
   },
   {
