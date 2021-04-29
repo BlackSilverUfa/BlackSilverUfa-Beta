@@ -8470,10 +8470,9 @@
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v1002673460.ass"
   },
   "1003719769": {
-    "abs_start": 0, "abs_end": 21280, "duration": 0,
+    "youtube": "GQFx0axEyMM", "official": false, "abs_start": 0, "abs_end": 21262, "duration": 21262,
     "name": "Scene Investigators (демо) / Ranch Simulator / Horror Squad / Tricky Towers #29",
     "date": "2021-04-28",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1003719769.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1003719769.torrent",
     "games": ["single", "co-op", "tricky-towers"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v1003719769.ass"
