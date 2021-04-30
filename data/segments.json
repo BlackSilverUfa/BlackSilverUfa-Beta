@@ -8476,5 +8476,14 @@
     "date": "2021-04-28",
     "games": ["single", "co-op", "tricky-towers"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v1003719769.ass"
+  },
+  "1005904918": {
+    "abs_start": 0, "abs_end": 33837, "duration": 0,
+    "name": "Returnal",
+    "date": "2021-04-30",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1005904918.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1005904918.torrent",
+    "games": ["first"],
+    "subtitles": "https://blacksilverufa.github.io/chats-2021/v1005904918.ass"
   }
 }
