@@ -6695,9 +6695,10 @@
     "subtitles": "https://blacksilverufa.github.io/chats-2020/v663976925.ass"
   },
   "665878817": {
-    "youtube": "R7GWQcpD7no", "official": false, "abs_start": 0, "abs_end": 21213, "duration": 21213,
+    "abs_start": 0, "abs_end": 21230, "duration": 0,
     "name": "Vampire: The Masquerade - Bloodlines #3 / Resident Evil 7 (Madhouse) #2",
     "date": "2020-06-30",
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/665878817.mp4",
     "games": ["vampire-masquerade", "re7"],
     "subtitles": "https://blacksilverufa.github.io/chats-2020/v665878817.ass"
   },
@@ -8473,7 +8474,6 @@
     "youtube": "GQFx0axEyMM", "official": false, "abs_start": 0, "abs_end": 21262, "duration": 21262,
     "name": "Scene Investigators (демо) / Ranch Simulator / Horror Squad / Tricky Towers #29",
     "date": "2021-04-28",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1003719769.torrent",
     "games": ["single", "co-op", "tricky-towers"],
     "subtitles": "https://blacksilverufa.github.io/chats-2021/v1003719769.ass"
   }
