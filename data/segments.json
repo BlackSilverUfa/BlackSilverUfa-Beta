@@ -8478,9 +8478,18 @@
   },
   "1005904918": {
     "youtube": "Vn0aM9uE6Lc", "official": false, "abs_start": 0, "abs_end": 33824, "duration": 33824,
-    "name": "Returnal",
+    "name": "Returnal #1",
     "date": "2021-04-30",
-    "games": ["first"],
+    "games": ["returnal"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1005904918.ass"
+  },
+  "1007193234": {
+    "abs_start": 0, "abs_end": 34901, "duration": 0,
+    "name": "Returnal #2",
+    "date": "2021-05-01",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1007193234.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1007193234.torrent",
+    "games": ["returnal"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1007193234.ass"
   }
 }

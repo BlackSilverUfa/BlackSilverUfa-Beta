@@ -2072,8 +2072,16 @@
       { "name": "Resident Evil Re:Verse", "segment": "988804108" },
       { "name": "Demon Skin", "segment": "989503848" },
       { "name": "Resident Evil Zero", "segment": "992035730" },
-      { "name": "Don't Forget Me", "segment": "997843732" },
-      { "name": "Returnal", "segment": "1005904918" }
+      { "name": "Don't Forget Me", "segment": "997843732" }
+    ]
+  },
+  {
+    "name": "Returnal",
+    "category": "ongoing",
+    "id": "returnal",
+    "streams": [
+      { "name": "1", "segment": "1005904918" },
+      { "name": "2", "segment": "1007193234" }
     ]
   },
   {
