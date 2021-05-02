@@ -8267,7 +8267,6 @@
     "youtube": "RAYrop1JRrQ", "official": false, "abs_start": 0, "abs_end": 27247, "duration": 27247,
     "name": "Yakuza: Like a Dragon #13 / PlayerUnknown's Battlegrounds #6",
     "date": "2021-03-30",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/968731343.torrent",
     "games": ["yakuza-like-dragon", "pubg"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v968731343.ass"
   },
@@ -8484,11 +8483,9 @@
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1005904918.ass"
   },
   "1007193234": {
-    "abs_start": 0, "abs_end": 34901, "duration": 0,
+    "youtube": "SeWJ4qG9CHo", "official": false, "abs_start": 0, "abs_end": 34922, "duration": 34922,
     "name": "Returnal #2",
     "date": "2021-05-01",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1007193234.mp4",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1007193234.torrent",
     "games": ["returnal"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1007193234.ass"
   }
