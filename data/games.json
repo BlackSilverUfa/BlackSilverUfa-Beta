@@ -1546,7 +1546,8 @@
     "streams": [
       { "name": "Maiden (демо)", "segment": "883419848" },
       { "name": "Maiden (демо) / Gameplay (демо)", "segment": "992035730", "start": 13076 },
-      { "name": "Gameplay 2 (демо)", "segment": "1000457538", "start": 8123 }
+      { "name": "Gameplay 2 (демо)", "segment": "1000457538", "start": 8123 },
+      { "name": "Gameplay 1 и 2 (демо)", "segment": "1008423983", "start": 16161 }
     ]
   },
   {
@@ -2081,7 +2082,8 @@
     "id": "returnal",
     "streams": [
       { "name": "1", "segment": "1005904918" },
-      { "name": "2", "segment": "1007193234" }
+      { "name": "2", "segment": "1007193234" },
+      { "name": "3", "segment": "1008423983" }
     ]
   },
   {
