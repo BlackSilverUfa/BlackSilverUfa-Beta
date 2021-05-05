@@ -2078,13 +2078,14 @@
   },
   {
     "name": "Returnal",
-    "category": "ongoing",
+    "category": "finished",
     "id": "returnal",
     "streams": [
       { "name": "1", "segment": "1005904918" },
       { "name": "2", "segment": "1007193234" },
       { "name": "3", "segment": "1008423983" },
-      { "name": "4", "segment": "1010778171" }
+      { "name": "4", "segment": "1010778171" },
+      { "name": "5", "segment": "1011964836" }
     ]
   },
   {
