@@ -8500,15 +8500,13 @@
     "youtube": "K7wgkD65YcU", "official": false, "abs_start": 0, "abs_end": 35902, "duration": 35902,
     "name": "Returnal #4",
     "date": "2021-05-04",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1010778171.torrent",
     "games": ["returnal"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1010778171.ass"
   },
   "1011964836": {
-    "abs_start": 0, "abs_end": 16321, "duration": 0,
+    "youtube": "4wAZGun2sVk", "official": false, "abs_start": 0, "abs_end": 16304, "duration": 16304,
     "name": "Returnal #5",
     "date": "2021-05-05",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1011964836.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1011964836.torrent",
     "games": ["returnal"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1011964836.ass"
