@@ -1545,9 +1545,10 @@
     "id": "re8",
     "streams": [
       { "name": "Maiden (демо)", "segment": "883419848" },
-      { "name": "Maiden (демо) / Gameplay (демо)", "segment": "992035730", "start": 13076 },
-      { "name": "Gameplay 2 (демо)", "segment": "1000457538", "start": 8123 },
-      { "name": "Gameplay 1 и 2 (демо)", "segment": "1008423983", "start": 16161 }
+      { "name": "Maiden (демо) / Деревня (демо)", "segment": "992035730", "start": 13076 },
+      { "name": "Замок (демо)", "segment": "1000457538", "start": 8123 },
+      { "name": "Деревня (демо) / Замок (демо)", "segment": "1008423983", "start": 16161 },
+      { "name": "Maiden (демо) / Замок (демо) / 1", "segment": "1012980938" }
     ]
   },
   {
