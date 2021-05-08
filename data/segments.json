@@ -6653,10 +6653,9 @@
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2020/v658127870.ass"
   },
   "659080815": {
-    "abs_start": 0, "abs_end": 22545, "duration": 0,
+    "youtube": "KTyzGfHeVDA", "official": false, "abs_start": 0, "abs_end": 22523, "duration": 22523,
     "name": "Vampire: The Masquerade - Bloodlines #1",
     "date": "2020-06-23",
-    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/659080815.mp4",
     "games": ["vampire-masquerade"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2020/v659080815.ass"
   },
