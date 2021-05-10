@@ -2317,9 +2317,10 @@
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2018/v268055630.ass"
   },
   "268114023": {
-    "youtube": "VzqWyytjckQ", "official": false, "abs_start": 0, "abs_end": 18163, "duration": 18163,
+    "abs_start": 0, "abs_end": 18223, "duration": 0,
     "name": "Dark Souls: Remastered #1 (заново, со зрителями)",
     "date": "2018-06-01",
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/268114023.mp4",
     "games": ["ds-remastered"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2018/v268114023.ass"
   },
@@ -7408,16 +7409,9 @@
   },
   "800233089": {
     "youtube": "CSjEpw0w5gE", "official": false, "abs_start": 0, "abs_end": 9264, "duration": 9264,
-    "name": "Call of Duty: Warzone #13",
+    "name": "Call of Duty: Warzone #13 / Marvel's Spider-Man: Miles Morales",
     "date": "2020-11-12",
-    "games": ["cod-warzone"],
-    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2020/v800233089.ass"
-  },
-  "800233089.1": {
-    "youtube": "XcOSWStaSB0", "abs_start": 9264, "abs_end": 27246, "duration": 17982,
-    "name": "Marvel's Spider-Man: Miles Morales",
-    "date": "2020-11-12",
-    "games": ["first"],
+    "games": ["cod-warzone", "first"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2020/v800233089.ass"
   },
   "801377729": {
