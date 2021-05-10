@@ -1825,7 +1825,8 @@
       { "name": "Asus ROG Chariot Core / Xbox Series X", "segment": "792632708" },
       { "name": "Sony PlayStation 5", "segment": "806256296" },
       { "name": "Asus ROG Zephyrus G14", "segment": "812974689" },
-      { "name": "ROG Flow X13", "segment": "962439245" }
+      { "name": "ROG Flow X13", "segment": "962439245" },
+      { "name": "ROG Gladius III", "segment": "1017725694" }
     ]
   },
   {
@@ -2076,7 +2077,8 @@
       { "name": "Resident Evil Re:Verse", "segment": "988804108" },
       { "name": "Demon Skin", "segment": "989503848" },
       { "name": "Resident Evil Zero", "segment": "992035730" },
-      { "name": "Don't Forget Me", "segment": "997843732" }
+      { "name": "Don't Forget Me", "segment": "997843732" },
+      { "name": "Starless / War Mongrels", "segment": "1017725694", "start": 6508 }
     ]
   },
   {
@@ -3569,7 +3571,8 @@
       { "name": "Sam's Story #1 (часть 1)", "segment": "550381390" },
       { "name": "Sam's Story #1 (часть 2)", "segment": "550387516" },
       { "name": "Sam's Story #2 (часть 1)", "segment": "550791781" },
-      { "name": "Sam's Story #2 (часть 2)", "segment": "550874352" }
+      { "name": "Sam's Story #2 (часть 2)", "segment": "550874352" },
+      { "name": "Enhanced Edition", "segment": "1017725694", "start": 8992 }
     ]
   },
   {

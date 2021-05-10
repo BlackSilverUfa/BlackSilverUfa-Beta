@@ -8525,5 +8525,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1014279040.torrent",
     "games": ["re8"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1014279040.ass"
+  },
+  "1017725694": {
+    "abs_start": 0, "abs_end": 13521, "duration": 0,
+    "name": "ROG Gladius III / Starless / War Mongrels / Metro Exodus - Enhanced Edition",
+    "date": "2021-05-10",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1017725694.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1017725694.torrent",
+    "games": ["unboxing", "first", "metro-exodus"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1017725694.ass"
   }
 }
