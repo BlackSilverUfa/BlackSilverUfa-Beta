@@ -6597,9 +6597,9 @@
   },
   "650534841": {
     "youtube": "7xYwbs5Rc80", "abs_start": 0, "abs_end": 25467, "duration": 25467,
-    "name": "Asus ROG Zephyrus G15 / In Sound Mind (демо) / Sea of Thieves #9",
+    "name": "Asus ROG Zephyrus G15 / In Sound Mind #1 (демо) / Sea of Thieves #9",
     "date": "2020-06-14",
-    "games": ["unboxing", "first", "sea-of-thieves"],
+    "games": ["unboxing", "in-sound-mind", "sea-of-thieves"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2020/v650534841.ass"
   },
   "653411860": {
@@ -7407,10 +7407,9 @@
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2020/v799135139.ass"
   },
   "800233089": {
-    "abs_start": 0, "abs_end": 27260, "duration": 0,
+    "youtube": "YdkjKeBIfnE", "official": false, "abs_start": 0, "abs_end": 27247, "duration": 27247,
     "name": "Call of Duty: Warzone #13 / Marvel's Spider-Man: Miles Morales",
     "date": "2020-11-12",
-    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/800233089.mp4",
     "games": ["cod-warzone", "first"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2020/v800233089.ass"
   },
@@ -8534,5 +8533,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1017725694.torrent",
     "games": ["unboxing", "first", "metro-exodus"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1017725694.ass"
+  },
+  "1021117640": {
+    "abs_start": 0, "abs_end": 20401, "duration": 0,
+    "name": "Until We Die (демо) / Severed Steel (демо) / In Sound Mind #2 (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together / Wreckfest #6 / Subnautica: Below Zero (ранний доступ) #8",
+    "date": "2021-05-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1021117640.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1021117640.torrent",
+    "games": ["first", "in-sound-mind", "wreckfest", "subnautica-bz"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1021117640.ass"
   }
 }

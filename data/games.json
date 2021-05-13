@@ -2014,7 +2014,6 @@
       { "name": "Those Who Remain / Someday You'll Return", "segment": "639075772" },
       { "name": "SOLUM", "segment": "644774531", "start": 16233 },
       { "name": "The Disappearance of the Mitchels", "segment": "645734946", "start": 18953 },
-      { "name": "In Sound Mind (демо)", "segment": "650534841", "start": 5496 },
       { "name": "Hardspace: Shipbreaker / Gloomwood / Among Trees / Hello Guest", "segment": "653411860", "start": 6808 },
       { "name": "SpongeBob SquarePants: Battle for Bikini Bottom — Rehydrated", "segment": "661040084" },
       { "name": "Fury Unleashed", "segment": "669777336", "start": 12725 },
@@ -2078,7 +2077,17 @@
       { "name": "Demon Skin", "segment": "989503848" },
       { "name": "Resident Evil Zero", "segment": "992035730" },
       { "name": "Don't Forget Me", "segment": "997843732" },
-      { "name": "Starless / War Mongrels", "segment": "1017725694", "start": 6508 }
+      { "name": "Starless / War Mongrels", "segment": "1017725694", "start": 6508 },
+      { "name": "Until We Die (демо) / Severed Steel (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together", "segment": "1021117640" }
+    ]
+  },
+  {
+    "name": "In Sound Mind",
+    "category": "ongoing",
+    "id": "in-sound-mind",
+    "streams": [
+      { "name": "1 (демо)", "segment": "650534841", "start": 5496 },
+      { "name": "2 (демо)", "segment": "1021117640", "start": 7898 }
     ]
   },
   {
@@ -3642,7 +3651,8 @@
       { "name": "4 (часть 2)", "segment": "863375029" },
       { "name": "5", "segment": "870760177", "start": 9317 },
       { "name": "6", "segment": "871972944" },
-      { "name": "7", "segment": "873197357" }
+      { "name": "7", "segment": "873197357" },
+      { "name": "8", "segment": "1021117640", "start": 17696 }
     ]
   },
   {
@@ -3904,7 +3914,8 @@
       { "name": "2", "segment": "278566845.1" },
       { "name": "3", "segment": "676500778", "start": 3518 },
       { "name": "4", "segment": "677524120", "start": 7230 },
-      { "name": "5", "segment": "678368491", "start": 18933 }
+      { "name": "5", "segment": "678368491", "start": 18933 },
+      { "name": "6", "segment": "1021117640", "start": 12095 }
     ]
   },
   {
