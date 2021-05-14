@@ -8514,7 +8514,6 @@
     "youtube": "wTItVCf0CPs", "official": false, "abs_start": 0, "abs_end": 12756, "duration": 12756,
     "name": "Resident Evil Village #2 (часть 1)",
     "date": "2021-05-07",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1014133625.torrent",
     "games": ["re8"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1014133625.ass"
   },
@@ -8522,7 +8521,6 @@
     "youtube": "LWtkEh6nsFY", "official": false, "abs_start": 0, "abs_end": 18560, "duration": 18560,
     "name": "Resident Evil Village #2 (часть 2)",
     "date": "2021-05-07",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1014279040.torrent",
     "games": ["re8"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1014279040.ass"
   },
@@ -8541,5 +8539,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1021117640.torrent",
     "games": ["first", "in-sound-mind", "wreckfest", "subnautica-bz"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1021117640.ass"
+  },
+  "1022192586": {
+    "abs_start": 0, "abs_end": 27141, "duration": 0,
+    "name": "Mass Effect: Legendary Edition",
+    "date": "2021-05-14",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1022192586.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1022192586.torrent",
+    "games": ["first"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1022192586.ass"
   }
 }
