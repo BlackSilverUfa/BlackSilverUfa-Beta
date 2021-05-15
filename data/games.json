@@ -2078,8 +2078,24 @@
       { "name": "Resident Evil Zero", "segment": "992035730" },
       { "name": "Don't Forget Me", "segment": "997843732" },
       { "name": "Starless / War Mongrels", "segment": "1017725694", "start": 6508 },
-      { "name": "Until We Die (демо) / Severed Steel (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together", "segment": "1021117640" },
-      { "name": "Mass Effect: Legendary Edition", "segment": "1022192586" }
+      { "name": "Until We Die (демо) / Severed Steel (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together", "segment": "1021117640" }
+    ]
+  },
+  {
+    "name": "Mass Effect: Legendary Edition",
+    "category": "finished",
+    "id": "me",
+    "streams": [
+      { "name": "1", "segment": "1022192586" },
+      { "name": "2", "segment": "1023398734" }
+    ]
+  },
+  {
+    "name": "Mass Effect 2: Legendary Edition",
+    "category": "ongoing",
+    "id": "me2",
+    "streams": [
+      { "name": "1", "segment": "1023398734", "start": 27940 }
     ]
   },
   {

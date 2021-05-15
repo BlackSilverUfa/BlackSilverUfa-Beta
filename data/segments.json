@@ -8528,7 +8528,6 @@
     "youtube": "NyNrYaCj928", "official": false, "abs_start": 0, "abs_end": 13522, "duration": 13522,
     "name": "ROG Gladius III / Starless / War Mongrels / Metro Exodus - Enhanced Edition",
     "date": "2021-05-10",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1017725694.torrent",
     "games": ["unboxing", "first", "metro-exodus"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1017725694.ass"
   },
@@ -8536,17 +8535,25 @@
     "youtube": "w4F6IQSX6XA", "official": false, "abs_start": 0, "abs_end": 20399, "duration": 20399,
     "name": "Until We Die (демо) / Severed Steel (демо) / In Sound Mind #2 (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together / Wreckfest #6 / Subnautica: Below Zero (ранний доступ) #8",
     "date": "2021-05-13",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1021117640.torrent",
     "games": ["first", "in-sound-mind", "wreckfest", "subnautica-bz"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1021117640.ass"
   },
   "1022192586": {
     "abs_start": 0, "abs_end": 27141, "duration": 0,
-    "name": "Mass Effect: Legendary Edition",
+    "name": "Mass Effect: Legendary Edition #1",
     "date": "2021-05-14",
     "direct": "https://bsufiles.thedrhax.pw/streams/1022192586.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1022192586.torrent",
-    "games": ["first"],
+    "games": ["me"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1022192586.ass"
+  },
+  "1023398734": {
+    "abs_start": 0, "abs_end": 28546, "duration": 0,
+    "name": "Mass Effect: Legendary Edition #2 / Mass Effect 2: Legendary Edition #1",
+    "date": "2021-05-15",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1023398734.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1023398734.torrent",
+    "games": ["me", "me2"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1023398734.ass"
   }
 }
