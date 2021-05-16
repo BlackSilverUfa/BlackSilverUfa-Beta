@@ -306,7 +306,8 @@
       { "name": "Knockout City (WLG, Bale)", "segment": "975061581", "start": 11486 },
       { "name": "First Class Trouble", "segment": "984801715", "start": 13557 },
       { "name": "Chivalry 2", "segment": "1000457538" },
-      { "name": "Ranch Simulator / Horror Squad", "segment": "1003719769", "start": 7739 }
+      { "name": "Ranch Simulator / Horror Squad", "segment": "1003719769", "start": 7739 },
+      { "name": "Dread Hunger", "segment": "1024777649" }
     ]
   },
   {
@@ -806,10 +807,10 @@
     "category": "co-op",
     "id": "pummel-party",
     "streams": [
-      { "name": "1", "segment": "331965944", "start": 7870 },
-      { "name": "2", "segment": "339579917.1", "start": 18770 },
-      { "name": "3", "segment": "410400457", "start": 7872 },
-      { "name": "4", "segment": "439860739", "start": 13042 },
+      { "name": "1 (4D)", "segment": "331965944", "start": 7870 },
+      { "name": "2 (4D)", "segment": "339579917.1", "start": 18770 },
+      { "name": "3 (4D)", "segment": "410400457", "start": 7872 },
+      { "name": "4 (4D)", "segment": "439860739", "start": 13042 },
       { "name": "5 (6D)", "segment": "500334713", "start": 5792 },
       { "name": "6 (6D)", "segment": "524415764.1", "start": 17021 },
       { "name": "7 (6D)", "segment": "556596083", "start": 13751 },
@@ -818,7 +819,8 @@
       { "name": "10 (7D)", "segment": "760503086" },
       { "name": "11 (6D)", "segment": "855161482", "start": 11744 },
       { "name": "12 (6D)", "segment": "877211836", "start": 14736 },
-      { "name": "13 (6D)", "segment": "886277729", "start": 9124 }
+      { "name": "13 (6D)", "segment": "886277729", "start": 9124 },
+      { "name": "14 (6D)", "segment": "1024777649", "start": 11067 }
     ]
   },
   {

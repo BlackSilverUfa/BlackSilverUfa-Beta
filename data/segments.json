@@ -3263,7 +3263,7 @@
   },
   "331965944": {
     "youtube": "9IGkvnhsS7k", "abs_start": 0, "abs_end": 16455, "duration": 16455,
-    "name": "Blackout Club / Pummel Party #1 / Tricky Towers #7",
+    "name": "Blackout Club / Pummel Party #1 (4D) / Tricky Towers #7",
     "date": "2018-11-05",
     "games": ["co-op", "pummel-party", "tricky-towers"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2018/v331965944.ass"
@@ -3368,7 +3368,7 @@
   },
   "339579917.1": {
     "youtube": "xupecZC5l7I", "abs_start": 11984, "abs_end": 27460, "duration": 15476,
-    "name": "Эскейп-румы - The Experiment #1 / Pummel Party #2 / Tricky Towers #8",
+    "name": "Эскейп-румы - The Experiment #1 / Pummel Party #2 (4D) / Tricky Towers #8",
     "date": "2018-11-23",
     "games": ["escape-rooms", "pummel-party", "tricky-towers"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2018/v339579917.ass"
@@ -4251,7 +4251,7 @@
   },
   "410400457": {
     "youtube": "h18MVwEQsww", "abs_start": 0, "abs_end": 21757, "duration": 21757,
-    "name": "The Beast Inside (демо) / Pacify / Pummel Party #3 / Tricky Towers #15",
+    "name": "The Beast Inside (демо) / Pacify / Pummel Party #3 (4D) / Tricky Towers #15",
     "date": "2019-04-13",
     "games": ["single", "co-op", "pummel-party", "tricky-towers"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2019/v410400457.ass"
@@ -4678,7 +4678,7 @@
   },
   "439860739": {
     "youtube": "_JfrkgyEAYw", "abs_start": 0, "abs_end": 22627, "duration": 22627,
-    "name": "Hollow Knight #12 / Havocado #1 / Pummel Party #4 / Tricky Towers #16",
+    "name": "Hollow Knight #12 / Havocado #1 / Pummel Party #4 (4D) / Tricky Towers #16",
     "date": "2019-06-16",
     "games": ["hollow-knight", "havocado", "pummel-party", "tricky-towers"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2019/v439860739.ass"
@@ -8542,7 +8542,6 @@
     "youtube": "RTa60x9-sic", "official": false, "abs_start": 0, "abs_end": 27138, "duration": 27138,
     "name": "Mass Effect: Legendary Edition #1",
     "date": "2021-05-14",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1022192586.torrent",
     "games": ["me"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1022192586.ass"
   },
@@ -8553,5 +8552,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1023398734.torrent",
     "games": ["me", "me2"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1023398734.ass"
+  },
+  "1024777649": {
+    "abs_start": 0, "abs_end": 16187, "duration": 0,
+    "name": "Dread Hunger / Pummel Party #14 (6D)",
+    "date": "2021-05-16",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1024777649.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1024777649.torrent",
+    "games": ["co-op", "pummel-party"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1024777649.ass"
   }
 }
