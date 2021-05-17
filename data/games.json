@@ -1804,7 +1804,8 @@
       { "name": "Розыгрыш Asus ROG GA502IV", "segment": "768182935" },
       { "name": "Розыгрыш флешек Asus ROG и ACRONYM", "segment": "815193918" },
       { "name": "Розыгрыш NVIDIA GeForce RTX 2080 Super", "segment": "823035178" },
-      { "name": "Игровые коллекции зрителей", "segment": "975061581", "start": 9662 }
+      { "name": "Игровые коллекции зрителей", "segment": "975061581", "start": 9662 },
+      { "name": "Розыгрыш ROG Gladius III", "segment": "1025736815" }
     ]
   },
   {
@@ -2097,7 +2098,8 @@
     "category": "ongoing",
     "id": "me2",
     "streams": [
-      { "name": "1", "segment": "1023398734", "start": 27940 }
+      { "name": "0 (первые 3 минуты)", "segment": "1023398734", "start": 27940 },
+      { "name": "1", "segment": "1025736815", "start": 1915 }
     ]
   },
   {
