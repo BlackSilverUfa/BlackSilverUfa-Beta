@@ -8549,7 +8549,6 @@
     "youtube": "udkGxx6D0rM", "official": false, "abs_start": 0, "abs_end": 28533, "duration": 28533,
     "name": "Mass Effect: Legendary Edition #2 / Mass Effect 2: Legendary Edition #0 (первые 3 минуты)",
     "date": "2021-05-15",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1023398734.torrent",
     "games": ["me", "me2"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1023398734.ass"
   },
@@ -8569,5 +8568,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1025736815.torrent",
     "games": ["events", "me2"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1025736815.ass"
+  },
+  "1026264805": {
+    "abs_start": 0, "abs_end": 6355, "duration": 0,
+    "name": "Mass Effect 2: Legendary Edition #2",
+    "date": "2021-05-18",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1026264805.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1026264805.torrent",
+    "games": ["me2"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1026264805.ass"
   }
 }
