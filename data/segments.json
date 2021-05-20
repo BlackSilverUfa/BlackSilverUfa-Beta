@@ -3879,14 +3879,14 @@
   },
   "372293257.2": {
     "youtube": "aW-YoO7W7vs", "abs_start": 16562, "abs_end": 20991, "duration": 4429,
-    "name": "Subnautica: Below Zero (ранний доступ) #1",
+    "name": "Subnautica: Below Zero #1",
     "date": "2019-01-30",
     "games": ["subnautica-bz"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2019/v372293257.ass"
   },
   "372851375": {
     "youtube": "Bm5h_D_suCs", "abs_start": 1701, "abs_end": 9804, "duration": 8103,
-    "name": "Subnautica: Below Zero (ранний доступ) #2",
+    "name": "Subnautica: Below Zero #2",
     "date": "2019-01-31",
     "games": ["subnautica-bz"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2019/v372851375.ass"
@@ -7730,21 +7730,21 @@
   },
   "862110712": {
     "youtube": "XIuZ48le1gc", "abs_start": 0, "abs_end": 22788, "duration": 22788,
-    "name": "Subnautica: Below Zero (ранний доступ) #3 (новый сюжет)",
+    "name": "Subnautica: Below Zero #3 (новый сюжет)",
     "date": "2021-01-05",
     "games": ["subnautica-bz"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v862110712.ass"
   },
   "863312509": {
     "youtube": "4iES-l_R5lU", "abs_start": 0, "abs_end": 5647, "duration": 5647,
-    "name": "Subnautica: Below Zero (ранний доступ) #4 (часть 1)",
+    "name": "Subnautica: Below Zero #4 (часть 1)",
     "date": "2021-01-06",
     "games": ["subnautica-bz"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v863312509.ass"
   },
   "863375029": {
     "youtube": "ipcpiSjisQs", "abs_start": 0, "abs_end": 16523, "duration": 16523,
-    "name": "Subnautica: Below Zero (ранний доступ) #4 (часть 2)",
+    "name": "Subnautica: Below Zero #4 (часть 2)",
     "date": "2021-01-06",
     "games": ["subnautica-bz"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v863375029.ass"
@@ -7766,21 +7766,21 @@
   },
   "870760177": {
     "youtube": "lksBj7Qiys4", "abs_start": 0, "abs_end": 25740, "duration": 25740,
-    "name": "Yaga / Fall Guys #13 (соло) / Subnautica: Below Zero (ранний доступ) #5",
+    "name": "Yaga / Fall Guys #13 (соло) / Subnautica: Below Zero #5",
     "date": "2021-01-12",
     "games": ["first", "fall-guys", "subnautica-bz"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v870760177.ass"
   },
   "871972944": {
     "youtube": "quip-UCMH0M", "abs_start": 0, "abs_end": 22325, "duration": 22325,
-    "name": "Subnautica: Below Zero (ранний доступ) #6",
+    "name": "Subnautica: Below Zero #6",
     "date": "2021-01-13",
     "games": ["subnautica-bz"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v871972944.ass"
   },
   "873197357": {
     "youtube": "AinWqdkN7Mc", "official": false, "abs_start": 0, "abs_end": 22476, "duration": 22476,
-    "name": "Subnautica: Below Zero (ранний доступ) #7",
+    "name": "Subnautica: Below Zero #7",
     "date": "2021-01-14",
     "games": ["subnautica-bz"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v873197357.ass"
@@ -8527,7 +8527,7 @@
   },
   "1021117640": {
     "youtube": "w4F6IQSX6XA", "official": false, "abs_start": 0, "abs_end": 20399, "duration": 20399,
-    "name": "Until We Die (демо) / Severed Steel (демо) / In Sound Mind #2 (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together / Wreckfest #6 / Subnautica: Below Zero (ранний доступ) #8",
+    "name": "Until We Die (демо) / Severed Steel (демо) / In Sound Mind #2 (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together / Wreckfest #6 / Subnautica: Below Zero #8 (релиз)",
     "date": "2021-05-13",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1021117640.torrent",
     "games": ["first", "in-sound-mind", "wreckfest", "subnautica-bz"],
@@ -8580,5 +8580,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1027931171.torrent",
     "games": ["days-gone", "snowrunner"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1027931171.ass"
+  },
+  "1028999291": {
+    "abs_start": 0, "abs_end": 15665, "duration": 0,
+    "name": "Subnautica: Below Zero #9",
+    "date": "2021-05-20",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1028999291.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1028999291.torrent",
+    "games": ["subnautica-bz"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1028999291.ass"
   }
 }

@@ -3664,8 +3664,8 @@
     ]
   },
   {
-    "name": "Subnautica: Below Zero (ранний доступ)",
-    "category": "infinite",
+    "name": "Subnautica: Below Zero",
+    "category": "finished",
     "id": "subnautica-bz",
     "streams": [
       { "name": "1", "segment": "372293257.2" },
@@ -3676,7 +3676,8 @@
       { "name": "5", "segment": "870760177", "start": 9317 },
       { "name": "6", "segment": "871972944" },
       { "name": "7", "segment": "873197357" },
-      { "name": "8", "segment": "1021117640", "start": 17696 }
+      { "name": "8 (релиз)", "segment": "1021117640", "start": 17696 },
+      { "name": "9", "segment": "1028999291" }
     ]
   },
   {
