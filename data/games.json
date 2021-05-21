@@ -303,11 +303,19 @@
       { "name": "Granny Simulator", "segment": "855161482", "start": 5284 },
       { "name": "Hand Simulator: Horror", "segment": "895496717", "start": 4891 },
       { "name": "Draw & Guess / Unlasting Horror / Hide and Seek / Golf Party", "segment": "957785419" },
-      { "name": "Knockout City (WLG, Bale)", "segment": "975061581", "start": 11486 },
       { "name": "First Class Trouble", "segment": "984801715", "start": 13557 },
       { "name": "Chivalry 2", "segment": "1000457538" },
       { "name": "Ranch Simulator / Horror Squad", "segment": "1003719769", "start": 7739 },
       { "name": "Dread Hunger", "segment": "1024777649" }
+    ]
+  },
+  {
+    "name": "Knockout City",
+    "category": "co-op",
+    "id": "knockout-city",
+    "streams": [
+      { "name": "1 (с WeLoveGames и Bale)", "segment": "975061581", "start": 11486 },
+      { "name": "2 (с Куплиновым и Дангаром)", "segment": "1030127769", "start": 7554 }
     ]
   },
   {
@@ -2081,7 +2089,8 @@
       { "name": "Resident Evil Zero", "segment": "992035730" },
       { "name": "Don't Forget Me", "segment": "997843732" },
       { "name": "Starless / War Mongrels", "segment": "1017725694", "start": 6508 },
-      { "name": "Until We Die (демо) / Severed Steel (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together", "segment": "1021117640" }
+      { "name": "Until We Die (демо) / Severed Steel (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together", "segment": "1021117640" },
+      { "name": "Phantom Abyss", "segment": "1030127769" }
     ]
   },
   {

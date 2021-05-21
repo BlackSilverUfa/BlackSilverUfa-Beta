@@ -8287,9 +8287,9 @@
   },
   "975061581": {
     "youtube": "1E3Pz7gkop8", "official": false, "abs_start": 0, "abs_end": 22909, "duration": 22909,
-    "name": "Resident Evil 2 Remake #7 (заново) / Игровые коллекции зрителей / Knockout City (WLG, Bale)",
+    "name": "Resident Evil 2 Remake #7 (заново) / Игровые коллекции зрителей / Knockout City #1 (с WeLoveGames и Bale)",
     "date": "2021-04-04",
-    "games": ["re2-remake", "events", "co-op"],
+    "games": ["re2-remake", "events", "knockout-city"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v975061581.ass"
   },
   "979229370": {
@@ -8588,5 +8588,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1028999291.torrent",
     "games": ["subnautica-bz"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1028999291.ass"
+  },
+  "1030127769": {
+    "abs_start": 0, "abs_end": 19289, "duration": 0,
+    "name": "Phantom Abyss / Knockout City #2 (с Куплиновым и Дангаром)",
+    "date": "2021-05-21",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1030127769.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1030127769.torrent",
+    "games": ["first", "knockout-city"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1030127769.ass"
   }
 }
