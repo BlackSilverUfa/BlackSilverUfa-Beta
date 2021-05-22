@@ -2090,7 +2090,16 @@
       { "name": "Don't Forget Me", "segment": "997843732" },
       { "name": "Starless / War Mongrels", "segment": "1017725694", "start": 6508 },
       { "name": "Until We Die (демо) / Severed Steel (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together", "segment": "1021117640" },
-      { "name": "Phantom Abyss", "segment": "1030127769" }
+      { "name": "Sniper Ghost Warrior Contracts 2 (демо)", "segment": "1031332081" }
+    ]
+  },
+  {
+    "name": "Phantom Abyss",
+    "category": "infinite",
+    "id": "phantom-abyss",
+    "streams": [
+      { "name": "1", "segment": "1030127769" },
+      { "name": "2", "segment": "1031332081", "start": 5724 }
     ]
   },
   {
