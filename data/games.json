@@ -2092,7 +2092,16 @@
       { "name": "Starless / War Mongrels", "segment": "1017725694", "start": 6508 },
       { "name": "Until We Die (демо) / Severed Steel (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together", "segment": "1021117640" },
       { "name": "Sniper Ghost Warrior Contracts 2 (демо)", "segment": "1031332081" },
-      { "name": "Pathfinder: Wrath of the Righteous (демо) / Biomutant", "segment": "1033590091" }
+      { "name": "Pathfinder: Wrath of the Righteous (демо)", "segment": "1033590091" }
+    ]
+  },
+  {
+    "name": "Biomutant",
+    "category": "ongoing",
+    "id": "biomutant",
+    "streams": [
+      { "name": "1", "segment": "1033590091", "start": 7150 },
+      { "name": "2", "segment": "1034612378" }
     ]
   },
   {

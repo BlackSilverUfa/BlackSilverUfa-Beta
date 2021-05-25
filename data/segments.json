@@ -8615,10 +8615,19 @@
   },
   "1033590091": {
     "youtube": "_uv6WWu5Rx0", "official": false, "abs_start": 0, "abs_end": 21569, "duration": 21569,
-    "name": "Pathfinder: Wrath of the Righteous (демо) / Biomutant",
+    "name": "Pathfinder: Wrath of the Righteous (демо) / Biomutant #1",
     "date": "2021-05-24",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1033590091.torrent",
-    "games": ["first"],
+    "games": ["first", "biomutant"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1033590091.ass"
+  },
+  "1034612378": {
+    "abs_start": 0, "abs_end": 28032, "duration": 0,
+    "name": "Biomutant #2",
+    "date": "2021-05-25",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1034612378.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1034612378.torrent",
+    "games": ["biomutant"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1034612378.ass"
   }
 }
