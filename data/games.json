@@ -315,8 +315,9 @@
     "category": "co-op",
     "id": "knockout-city",
     "streams": [
-      { "name": "1 (с WeLoveGames и Bale)", "segment": "975061581", "start": 11486 },
-      { "name": "2 (с Куплиновым и Дангаром)", "segment": "1030127769", "start": 7554 }
+      { "name": "1 (с WeLoveGames и Бейлом)", "segment": "975061581", "start": 11486 },
+      { "name": "2 (с Куплиновым и Дангаром)", "segment": "1030127769", "start": 7554 },
+      { "name": "3 (с WeLoveGames и Бейлом)", "segment": "1035840249", "start": 8255 }
     ]
   },
   {
@@ -2092,7 +2093,8 @@
       { "name": "Starless / War Mongrels", "segment": "1017725694", "start": 6508 },
       { "name": "Until We Die (демо) / Severed Steel (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together", "segment": "1021117640" },
       { "name": "Sniper Ghost Warrior Contracts 2 (демо)", "segment": "1031332081" },
-      { "name": "Pathfinder: Wrath of the Righteous (демо)", "segment": "1033590091" }
+      { "name": "Pathfinder: Wrath of the Righteous (демо)", "segment": "1033590091" },
+      { "name": "Siege Survival: Gloria Victis", "segment": "1035840249" }
     ]
   },
   {
