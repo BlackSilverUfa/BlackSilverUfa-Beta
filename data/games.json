@@ -304,10 +304,18 @@
       { "name": "Hand Simulator: Horror", "segment": "895496717", "start": 4891 },
       { "name": "Draw & Guess / Unlasting Horror / Hide and Seek / Golf Party", "segment": "957785419" },
       { "name": "First Class Trouble", "segment": "984801715", "start": 13557 },
-      { "name": "Chivalry 2", "segment": "1000457538" },
       { "name": "Ranch Simulator / Horror Squad", "segment": "1003719769", "start": 7739 },
       { "name": "Dread Hunger", "segment": "1024777649" },
       { "name": "Just Die Already / A House of Thieves", "segment": "1031432095" }
+    ]
+  },
+  {
+    "name": "Chivalry 2",
+    "category": "co-op",
+    "id": "chivalry-2",
+    "streams": [
+      { "name": "1", "segment": "1000457538" },
+      { "name": "2", "segment": "1036865162", "start": 17059 }
     ]
   },
   {
@@ -1152,19 +1160,42 @@
     "type": "list",
     "id": "expos",
     "streams": [
-      { "name": "неПрофессиональный The Game Awards 2018", "segment": "345649019" },
-      { "name": "Gamescom 2019", "segment": "469393130" },
       { "name": "BlizzCon 2019 (обзор)", "segment": "502940448" },
-      { "name": "State of Play 2019", "segment": "519609666" },
-      { "name": "The Game Awards 2019 (обзор)", "segment": "520877239" },
       { "name": "Презентация PlayStation 5", "segment": "569683310", "start": 11025 },
       { "name": "Xbox Inside 2020", "segment": "613793616", "start": 7180 },
-      { "name": "Gamescom 2020", "segment": "723011325", "start": 17319 },
-      { "name": "неПрофессиональный The Game Awards 2020", "segment": "832197729.1", "start": 45241 },
-      { "name": "State of Play 2021", "segment": "927781155", "start": 32306 },
       { "name": "ROG Phone 5 Launch Event", "segment": "943938218" },
       { "name": "Square Enix Presents (Весна 2021)", "segment": "953865835", "start": 11085 },
-      { "name": "Resident Evil Showcase (Апрель 2021)", "segment": "988804108", "start": 1627 }
+      { "name": "Resident Evil Showcase (Апрель 2021)", "segment": "988804108", "start": 1627 },
+      { "name": "Dying 2 Know - Dying Light 2", "segment": "1036865162", "start": 21520 }
+    ]
+  },
+  {
+    "name": "The Game Awards",
+    "category": "expos",
+    "id": "tga",
+    "streams": [
+      { "name": "2018", "segment": "345649019" },
+      { "name": "2019 (обзор)", "segment": "520877239" },
+      { "name": "2020", "segment": "832197729.1", "start": 45241 }
+    ]
+  },
+  {
+    "name": "Gamescom",
+    "category": "expos",
+    "id": "gamescom",
+    "streams": [
+      { "name": "2019", "segment": "469393130" },
+      { "name": "2020", "segment": "723011325", "start": 17319 }
+    ]
+  },
+  {
+    "name": "State of Play",
+    "category": "expos",
+    "id": "sony-sop",
+    "streams": [
+      { "name": "2019", "segment": "519609666" },
+      { "name": "2021", "segment": "927781155", "start": 32306 },
+      { "name": "Horizon Forbidden West", "segment": "1036865162", "start": 28827 }
     ]
   },
   {
@@ -2072,7 +2103,7 @@
       { "name": "Olija / Tohu", "segment": "896656796" },
       { "name": "Destruction AllStars", "segment": "899289707" },
       { "name": "Expedition Zero (демо) / Lamentum (демо)", "segment": "901835689" },
-      { "name": "Potentia (демо) / Graven (демо) / Minute of Islands (демо) / Escape (демо) / Slender Threads (демо) / Tasomachi (демо)", "segment": "905895866", "start": 6713 },
+      { "name": "Potentia (демо) / Minute of Islands (демо) / Escape (демо) / Slender Threads (демо) / Tasomachi (демо)", "segment": "905895866", "start": 6713 },
       { "name": "SuchArt: Genius Artist Simulator", "segment": "912392953", "start": 9639 },
       { "name": "What Lives Below (демо)", "segment": "916293705" },
       { "name": "System Shock (демо)", "segment": "928993182" },
@@ -2094,7 +2125,17 @@
       { "name": "Until We Die (демо) / Severed Steel (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together", "segment": "1021117640" },
       { "name": "Sniper Ghost Warrior Contracts 2 (демо)", "segment": "1031332081" },
       { "name": "Pathfinder: Wrath of the Righteous (демо)", "segment": "1033590091" },
-      { "name": "Siege Survival: Gloria Victis", "segment": "1035840249" }
+      { "name": "Siege Survival: Gloria Victis", "segment": "1035840249" },
+      { "name": "Scarlet Nexus (демо)", "segment": "1036865162" }
+    ]
+  },
+  {
+    "name": "Graven",
+    "category": "ongoing",
+    "id": "graven",
+    "streams": [
+      { "name": "Демо", "segment": "905895866", "start": 8214 },
+      { "name": "1", "segment": "1036865162", "start": 6271 }
     ]
   },
   {

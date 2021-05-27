@@ -3445,9 +3445,9 @@
   },
   "345649019": {
     "youtube": "VDWU9-tKGKs", "abs_start": -7, "abs_end": 13137, "duration": 13144,
-    "name": "неПрофессиональный The Game Awards 2018",
+    "name": "The Game Awards #2018",
     "date": "2018-12-07",
-    "games": ["expos"],
+    "games": ["tga"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2018/v345649019.ass"
   },
   "345863416": {
@@ -4980,9 +4980,9 @@
   },
   "469393130": {
     "youtube": "gz_UJp6sBrw", "abs_start": 0, "abs_end": 18100, "duration": 18100,
-    "name": "Gamescom 2019 / Remnant: From the Ashes #3",
+    "name": "Gamescom #2019 / Remnant: From the Ashes #3",
     "date": "2019-08-19",
-    "games": ["expos", "remnant-from-the-ashes"],
+    "games": ["gamescom", "remnant-from-the-ashes"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2019/v469393130.ass"
   },
   "470288598": {
@@ -5562,9 +5562,9 @@
   },
   "519609666": {
     "youtube": "53_URt94pg8", "abs_start": 0, "abs_end": 18386, "duration": 18386,
-    "name": "State of Play 2019 / GTFO #1",
+    "name": "State of Play #2019 / GTFO #1",
     "date": "2019-12-10",
-    "games": ["expos", "gtfo"],
+    "games": ["sony-sop", "gtfo"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2019/v519609666.ass"
   },
   "520025510": {
@@ -5583,9 +5583,9 @@
   },
   "520877239": {
     "youtube": "a6KZKvd853M", "abs_start": 0, "abs_end": 22957, "duration": 22957,
-    "name": "The Game Awards 2019 (обзор) / GTFO #2",
+    "name": "The Game Awards #2019 (обзор) / GTFO #2",
     "date": "2019-12-13",
-    "games": ["expos", "gtfo"],
+    "games": ["tga", "gtfo"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2019/v520877239.ass"
   },
   "521336731": {
@@ -6929,9 +6929,9 @@
   },
   "723011325": {
     "youtube": "Zieo4ovQjLA", "official": false, "abs_start": 0, "abs_end": 25619, "duration": 25619,
-    "name": "Mortal Shell - Релиз / Control #1 (AWE DLC) / Gamescom 2020",
+    "name": "Mortal Shell - Релиз / Control #1 (AWE DLC) / Gamescom #2020",
     "date": "2020-08-27",
-    "games": ["mortal-shell", "control", "expos"],
+    "games": ["mortal-shell", "control", "gamescom"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2020/v723011325.ass"
   },
   "725080998": {
@@ -7583,9 +7583,9 @@
   },
   "832197729.1": {
     "youtube": "HIYXSNbY7n8", "official": false, "abs_start": 43200, "abs_end": 57338, "duration": 14138,
-    "name": "Cyberpunk 2077 #2 (часть 2) / неПрофессиональный The Game Awards 2020",
+    "name": "Cyberpunk 2077 #2 (часть 2) / The Game Awards #2020",
     "date": "2020-12-10",
-    "games": ["cyberpunk-2077", "expos"],
+    "games": ["cyberpunk-2077", "tga"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2020/v832197729.ass"
   },
   "833444670": {
@@ -7927,9 +7927,9 @@
   },
   "905895866": {
     "youtube": "iwZuEXPMa5c", "official": false, "abs_start": 0, "abs_end": 21897, "duration": 21897,
-    "name": "Forgotten Tunnels - Episode 3 / Potentia (демо) / Graven (демо) / Narita Boy (демо) / Evil Inside - Демо / Minute of Islands (демо) / Escape (демо) / Slender Threads (демо) / Tasomachi (демо)",
+    "name": "Forgotten Tunnels - Episode 3 / Potentia (демо) / Graven - Демо / Narita Boy (демо) / Evil Inside - Демо / Minute of Islands (демо) / Escape (демо) / Slender Threads (демо) / Tasomachi (демо)",
     "date": "2021-02-08",
-    "games": ["forgotten-tunnels", "first", "single", "evil-inside"],
+    "games": ["forgotten-tunnels", "first", "graven", "single", "evil-inside"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v905895866.ass"
   },
   "907145168": {
@@ -8062,9 +8062,9 @@
   },
   "927781155": {
     "youtube": "zRgj4d08-9I", "abs_start": 0, "abs_end": 36371, "duration": 36371,
-    "name": "Yakuza: Like a Dragon #1 / Breathedge #1 / SnowRunner #14 / State of Play 2021",
+    "name": "Yakuza: Like a Dragon #1 / Breathedge #1 / SnowRunner #14 / State of Play #2021",
     "date": "2021-02-25",
-    "games": ["yakuza-like-dragon", "breathedge", "snowrunner", "expos"],
+    "games": ["yakuza-like-dragon", "breathedge", "snowrunner", "sony-sop"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v927781155.ass"
   },
   "928993182": {
@@ -8423,10 +8423,10 @@
   },
   "1000457538": {
     "youtube": "m4pu3_6AA4Q", "official": false, "abs_start": 0, "abs_end": 17102, "duration": 17102,
-    "name": "Chivalry 2 / Resident Evil Village - Замок (демо) / Devour #2",
+    "name": "Chivalry 2 #1 / Resident Evil Village - Замок (демо) / Devour #2",
     "date": "2021-04-25",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1000457538.torrent",
-    "games": ["co-op", "re8", "devour"],
+    "games": ["chivalry-2", "re8", "devour"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1000457538.ass"
   },
   "1001445798": {
@@ -8637,5 +8637,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1035840249.torrent",
     "games": ["first", "knockout-city"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1035840249.ass"
+  },
+  "1036865162": {
+    "abs_start": 0, "abs_end": 30343, "duration": 0,
+    "name": "Scarlet Nexus (демо) / Graven #1 / Chivalry 2 #2 / Dying 2 Know - Dying Light 2 / State of Play - Horizon Forbidden West",
+    "date": "2021-05-27",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1036865162.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1036865162.torrent",
+    "games": ["first", "graven", "chivalry-2", "expos", "sony-sop"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1036865162.ass"
   }
 }
