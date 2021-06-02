@@ -303,10 +303,26 @@
       { "name": "Granny Simulator", "segment": "855161482", "start": 5284 },
       { "name": "Hand Simulator: Horror", "segment": "895496717", "start": 4891 },
       { "name": "Draw & Guess / Unlasting Horror / Hide and Seek / Golf Party", "segment": "957785419" },
-      { "name": "First Class Trouble", "segment": "984801715", "start": 13557 },
       { "name": "Ranch Simulator / Horror Squad", "segment": "1003719769", "start": 7739 },
-      { "name": "Dread Hunger", "segment": "1024777649" },
       { "name": "Just Die Already / A House of Thieves", "segment": "1031432095" }
+    ]
+  },
+  {
+    "name": "Dread Hunger",
+    "category": "co-op",
+    "id": "dread-hunger",
+    "streams": [
+      { "name": "1", "segment": "1024777649" },
+      { "name": "2", "segment": "1043310851", "start": 17558 }
+    ]
+  },
+  {
+    "name": "First Class Trouble",
+    "category": "co-op",
+    "id": "fct",
+    "streams": [
+      { "name": "1", "segment": "984801715", "start": 13557 },
+      { "name": "2", "segment": "1043310851", "start": 11699 }
     ]
   },
   {
@@ -2135,7 +2151,8 @@
       { "name": "Pathfinder: Wrath of the Righteous (демо)", "segment": "1033590091" },
       { "name": "Siege Survival: Gloria Victis", "segment": "1035840249" },
       { "name": "Scarlet Nexus (демо)", "segment": "1036865162" },
-      { "name": "Wolfenstein: The Old Blood / Spiritfarer / DOOM 64", "segment": "1037951212,1037962598,1038035275,1038124022" }
+      { "name": "Wolfenstein: The Old Blood / Spiritfarer / DOOM 64", "segment": "1037951212,1037962598,1038035275,1038124022" },
+      { "name": "Necromunda: Hired Gun", "segment": "1043310851" }
     ]
   },
   {

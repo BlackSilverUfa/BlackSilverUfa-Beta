@@ -8336,9 +8336,9 @@
   },
   "984801715": {
     "youtube": "C_oXWKvk4Mw", "official": false, "abs_start": 0, "abs_end": 22290, "duration": 22290,
-    "name": "Say No! More / Gartic Phone #3 / First Class Trouble",
+    "name": "Say No! More / Gartic Phone #3 / First Class Trouble #1",
     "date": "2021-04-12",
-    "games": ["first", "gartic-phone", "co-op"],
+    "games": ["first", "gartic-phone", "fct"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v984801715.ass"
   },
   "985933335": {
@@ -8551,10 +8551,10 @@
   },
   "1024777649": {
     "youtube": "A1luD_1z7xg", "official": false, "abs_start": 0, "abs_end": 16179, "duration": 16179,
-    "name": "Dread Hunger / Pummel Party #14 (6D)",
+    "name": "Dread Hunger #1 / Pummel Party #14 (6D)",
     "date": "2021-05-16",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1024777649.torrent",
-    "games": ["co-op", "pummel-party"],
+    "games": ["dread-hunger", "pummel-party"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1024777649.ass"
   },
   "1025736815": {
@@ -8705,5 +8705,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1041310214.torrent",
     "games": ["re6"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1041310214.ass"
+  },
+  "1043310851": {
+    "abs_start": 0, "abs_end": 27002, "duration": 0,
+    "name": "Necromunda: Hired Gun / First Class Trouble #2 / Dread Hunger #2",
+    "date": "2021-06-02",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1043310851.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1043310851.torrent",
+    "games": ["first", "fct", "dread-hunger"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1043310851.ass"
   }
 }
