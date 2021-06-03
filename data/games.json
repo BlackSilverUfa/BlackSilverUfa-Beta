@@ -2156,6 +2156,14 @@
     ]
   },
   {
+    "name": "Operation: Tango",
+    "category": "ongoing",
+    "id": "op-tango",
+    "streams": [
+      { "name": "1 (часть 1)", "segment": "1044426110", "start": 14501 }
+    ]
+  },
+  {
     "name": "Maneater",
     "category": "infinite",
     "id": "maneater",
@@ -2504,12 +2512,13 @@
     ]
   },
   {
-    "name": "World of Warcraft: Shadowlands",
+    "name": "World of Warcraft",
     "category": "ongoing",
-    "id": "wow-shadowlands",
+    "id": "wow",
     "streams": [
-      { "name": "1", "segment": "728015486" },
-      { "name": "2", "segment": "814088106" }
+      { "name": "1 (Shadowlands)", "segment": "728015486" },
+      { "name": "2", "segment": "814088106" },
+      { "name": "1 (заново)", "segment": "1044426110" }
     ]
   },
   {
@@ -2797,7 +2806,8 @@
       { "name": "2", "segment": "622728652", "start": 14545 },
       { "name": "3", "segment": "626564087", "start": 19160 },
       { "name": "4", "segment": "649632498", "start": 12520 },
-      { "name": "5", "segment": "663976925" }
+      { "name": "5", "segment": "663976925" },
+      { "name": "6", "segment": "1044426110", "start": 12795 }
     ]
   },
   {
