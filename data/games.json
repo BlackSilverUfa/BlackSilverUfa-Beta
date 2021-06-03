@@ -2157,10 +2157,11 @@
   },
   {
     "name": "Operation: Tango",
-    "category": "ongoing",
+    "category": "finished",
     "id": "op-tango",
     "streams": [
-      { "name": "1 (часть 1)", "segment": "1044426110", "start": 14501 }
+      { "name": "1", "segment": "1044426110", "start": 14501 },
+      { "name": "2", "segment": "1044665544" }
     ]
   },
   {
