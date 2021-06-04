@@ -8734,11 +8734,30 @@
   },
   "1045525867": {
     "abs_start": 0, "abs_end": 18165, "duration": 0,
-    "name": "First Class Trouble #3 (WLG, Wycc и другие)",
+    "name": "",
     "date": "2021-06-04",
     "direct": "https://bsufiles.thedrhax.pw/streams/1045525867.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1045525867.torrent",
-    "games": ["fct"],
+    "games": [],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1045525867.ass"
+  },
+  "1045800801": {
+    "abs_start": 0, "abs_end": 204, "duration": 0,
+    "name": "",
+    "date": "2021-06-04",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1045800801.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1045800801.torrent",
+    "games": [],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1045800801.ass"
+  },
+  "1045525867,1045800801": {
+    "abs_start": 0, "abs_end": 18369, "duration": 0,
+    "name": "First Class Trouble #3 (WLG, Wycc и другие)",
+    "date": "2021-06-04",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1045525867,1045800801.mp4",
+    "offsets": [0, 18104],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1045525867,1045800801.torrent",
+    "games": ["fct"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-generated/v1045525867,1045800801+0.ass"
   }
 }
