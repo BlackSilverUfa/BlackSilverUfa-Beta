@@ -322,7 +322,8 @@
     "id": "fct",
     "streams": [
       { "name": "1", "segment": "984801715", "start": 13557 },
-      { "name": "2", "segment": "1043310851", "start": 11699 }
+      { "name": "2", "segment": "1043310851", "start": 11699 },
+      { "name": "3 (WLG, Wycc и другие)", "segment": "1045525867" }
     ]
   },
   {
