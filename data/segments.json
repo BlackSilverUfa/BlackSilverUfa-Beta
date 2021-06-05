@@ -8749,10 +8749,9 @@
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1045800801.ass"
   },
   "1045525867,1045800801": {
-    "abs_start": 0, "abs_end": 18369, "duration": 0,
+    "youtube": "mgpFtBdY51g", "official": false, "abs_start": 0, "abs_end": 18300, "duration": 18300,
     "name": "First Class Trouble #3 (WLG, Wycc и другие)",
     "date": "2021-06-04",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1045525867,1045800801.mp4",
     "offsets": [0, 18104],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1045525867,1045800801.torrent",
     "games": ["fct"],
