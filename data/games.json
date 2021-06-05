@@ -4042,7 +4042,7 @@
   },
   {
     "name": "Resident Evil 6",
-    "category": "ongoing",
+    "category": "finished",
     "id": "re6",
     "streams": [
       { "name": "1 (Леон)", "segment": "1037951212,1037962598,1038035275,1038124022", "start": 8975 },
