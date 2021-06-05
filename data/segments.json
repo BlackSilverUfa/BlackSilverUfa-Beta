@@ -8750,11 +8750,20 @@
   },
   "1045525867,1045800801": {
     "youtube": "mgpFtBdY51g", "official": false, "abs_start": 0, "abs_end": 18300, "duration": 18300,
-    "name": "First Class Trouble #3 (WLG, Wycc и другие)",
+    "name": "First Class Trouble #3 (WLG, Wycc, Орк-подкастер / Михаил Juice / Шпрот)",
     "date": "2021-06-04",
     "offsets": [0, 18104],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1045525867,1045800801.torrent",
     "games": ["fct"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-generated/v1045525867,1045800801+0.ass"
+  },
+  "1046577531": {
+    "abs_start": 0, "abs_end": 25845, "duration": 0,
+    "name": "Resident Evil 6 #4 (Джейк, Ада)",
+    "date": "2021-06-05",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1046577531.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1046577531.torrent",
+    "games": ["re6"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1046577531.ass"
   }
 }
