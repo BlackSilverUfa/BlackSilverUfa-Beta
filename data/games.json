@@ -2147,13 +2147,23 @@
       { "name": "Resident Evil Zero", "segment": "992035730" },
       { "name": "Don't Forget Me", "segment": "997843732" },
       { "name": "Starless / War Mongrels", "segment": "1017725694", "start": 6508 },
-      { "name": "Until We Die (демо) / Severed Steel (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together", "segment": "1021117640" },
+      { "name": "Severed Steel (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together", "segment": "1021117640", "start": 6992 },
       { "name": "Sniper Ghost Warrior Contracts 2 (демо)", "segment": "1031332081" },
       { "name": "Pathfinder: Wrath of the Righteous (демо)", "segment": "1033590091" },
       { "name": "Siege Survival: Gloria Victis", "segment": "1035840249" },
       { "name": "Scarlet Nexus (демо)", "segment": "1036865162" },
       { "name": "Wolfenstein: The Old Blood / Spiritfarer / DOOM 64", "segment": "1037951212,1037962598,1038035275,1038124022" },
-      { "name": "Necromunda: Hired Gun", "segment": "1043310851" }
+      { "name": "Necromunda: Hired Gun", "segment": "1043310851" },
+      { "name": "Skinwalker Hunt", "segment": "1048673954", "start": 3412 }
+    ]
+  },
+  {
+    "name": "Until We Die",
+    "category": "ongoing",
+    "id": "until-we-die",
+    "streams": [
+      { "name": "Демо", "segment": "1021117640" },
+      { "name": "1", "segment": "1048673954" }
     ]
   },
   {
@@ -2809,7 +2819,8 @@
       { "name": "3", "segment": "626564087", "start": 19160 },
       { "name": "4", "segment": "649632498", "start": 12520 },
       { "name": "5", "segment": "663976925" },
-      { "name": "6", "segment": "1044426110", "start": 12795 }
+      { "name": "6", "segment": "1044426110", "start": 12795 },
+      { "name": "7", "segment": "1048673954", "start": 18558 }
     ]
   },
   {
@@ -2834,7 +2845,8 @@
       { "name": "15", "segment": "937766301", "start": 14658 },
       { "name": "16", "segment": "958844668", "start": 18173 },
       { "name": "17", "segment": "985933335", "start": 17281 },
-      { "name": "18", "segment": "1027931171", "start": 14527 }
+      { "name": "18", "segment": "1027931171", "start": 14527 },
+      { "name": "19", "segment": "1048673954", "start": 12477 }
     ]
   },
   {
