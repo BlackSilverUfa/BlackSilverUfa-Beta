@@ -332,7 +332,8 @@
     "id": "chivalry-2",
     "streams": [
       { "name": "1", "segment": "1000457538" },
-      { "name": "2", "segment": "1036865162", "start": 17059 }
+      { "name": "2", "segment": "1036865162", "start": 17059 },
+      { "name": "3", "segment": "1051795746,1052015039,1052084349" }
     ]
   },
   {
@@ -1183,7 +1184,8 @@
       { "name": "ROG Phone 5 Launch Event", "segment": "943938218" },
       { "name": "Square Enix Presents (Весна 2021)", "segment": "953865835", "start": 11085 },
       { "name": "Resident Evil Showcase (Апрель 2021)", "segment": "988804108", "start": 1627 },
-      { "name": "Dying 2 Know - Dying Light 2", "segment": "1036865162", "start": 21520 }
+      { "name": "Dying 2 Know - Dying Light 2", "segment": "1036865162", "start": 21520 },
+      { "name": "Summer Game Fest 2021", "segment": "1051795746,1052015039,1052084349", "start": 16241 }
     ]
   },
   {

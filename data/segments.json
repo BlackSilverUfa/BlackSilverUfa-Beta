@@ -8401,7 +8401,6 @@
     "youtube": "BRYNvV4VMDA", "official": false, "abs_start": 0, "abs_end": 27653, "duration": 27653,
     "name": "NieR Replicant #1",
     "date": "2021-04-22",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/996609423.torrent",
     "games": ["nier-replicant"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v996609423.ass"
   },
@@ -8409,7 +8408,6 @@
     "youtube": "fqvS9VODd8Y", "official": false, "abs_start": 0, "abs_end": 21868, "duration": 21868,
     "name": "Don't Forget Me / Call of Duty: Warzone #14",
     "date": "2021-04-23",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/997843732.torrent",
     "games": ["first", "cod-warzone"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v997843732.ass"
   },
@@ -8772,5 +8770,42 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1048673954.torrent",
     "games": ["until-we-die", "first", "snowrunner", "geoguessr"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1048673954.ass"
+  },
+  "1051795746": {
+    "abs_start": 0, "abs_end": 16596, "duration": 0,
+    "name": "",
+    "date": "2021-06-10",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1051795746.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1051795746.torrent",
+    "games": [],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1051795746.ass"
+  },
+  "1052015039": {
+    "abs_start": 0, "abs_end": 3951, "duration": 0,
+    "name": "",
+    "date": "2021-06-10",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1052015039.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1052015039.torrent",
+    "games": [],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1052015039.ass"
+  },
+  "1052084349": {
+    "abs_start": 0, "abs_end": 2973, "duration": 0,
+    "name": "",
+    "date": "2021-06-10",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1052084349.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1052084349.torrent",
+    "games": [],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1052084349.ass"
+  },
+  "1051795746,1052015039,1052084349": {
+    "abs_start": 0, "abs_end": 23520, "duration": 0,
+    "name": "Chivalry 2 #3 / Summer Game Fest 2021",
+    "date": "2021-06-10",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1051795746,1052015039,1052084349.mp4",
+    "offsets": [0, 16657, 20651],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1051795746,1052015039,1052084349.torrent",
+    "games": ["chivalry-2", "expos"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-generated/v1051795746,1052015039,1052084349+0.ass"
   }
 }
