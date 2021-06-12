@@ -8422,7 +8422,6 @@
     "youtube": "m4pu3_6AA4Q", "official": false, "abs_start": 0, "abs_end": 17102, "duration": 17102,
     "name": "Chivalry 2 #1 / Resident Evil Village - Замок (демо) / Devour #2",
     "date": "2021-04-25",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1000457538.torrent",
     "games": ["chivalry-2", "re8", "devour"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1000457538.ass"
   },
@@ -8430,7 +8429,6 @@
     "youtube": "QOsmaTlbIrc", "official": false, "abs_start": 0, "abs_end": 24925, "duration": 24925,
     "name": "NieR Replicant #3",
     "date": "2021-04-26",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1001445798.torrent",
     "games": ["nier-replicant"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1001445798.ass"
   },
@@ -8438,7 +8436,6 @@
     "youtube": "-vMwm_TYa-4", "official": false, "abs_start": 0, "abs_end": 7180, "duration": 7180,
     "name": "NieR Replicant #4",
     "date": "2021-04-27",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1002673460.torrent",
     "games": ["nier-replicant"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1002673460.ass"
   },
@@ -8446,7 +8443,6 @@
     "youtube": "GQFx0axEyMM", "official": false, "abs_start": 0, "abs_end": 21262, "duration": 21262,
     "name": "Scene Investigators (демо) / Ranch Simulator / Horror Squad / Tricky Towers #29",
     "date": "2021-04-28",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1003719769.torrent",
     "games": ["single", "co-op", "tricky-towers"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1003719769.ass"
   },
@@ -8799,11 +8795,11 @@
   },
   "1051795746,1052015039,1052084349": {
     "youtube": "Dd66lUIJ4TE", "official": false, "abs_start": 0, "abs_end": 23623, "duration": 23623,
-    "name": "Chivalry 2 #3 / Summer Game Fest 2021",
+    "name": "Chivalry 2 #3 / неПрофессиональный E3 2021 - Summer Game Fest",
     "date": "2021-06-10",
     "offsets": [0, 16657, 20651],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1051795746,1052015039,1052084349.torrent",
-    "games": ["chivalry-2", "expos"],
+    "games": ["chivalry-2", "e3_2021"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-generated/v1051795746,1052015039,1052084349+0.ass"
   },
   "1052761973": {
@@ -8813,5 +8809,42 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1052761973.torrent",
     "games": ["rc-rift-apart"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1052761973.ass"
+  },
+  "1053861574": {
+    "abs_start": 0, "abs_end": 5865, "duration": 0,
+    "name": "",
+    "date": "2021-06-12",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1053861574.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1053861574.torrent",
+    "games": [],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1053861574.ass"
+  },
+  "1053916259": {
+    "abs_start": 0, "abs_end": 9231, "duration": 0,
+    "name": "",
+    "date": "2021-06-12",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1053916259.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1053916259.torrent",
+    "games": [],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1053916259.ass"
+  },
+  "1054022725": {
+    "abs_start": 0, "abs_end": 21916, "duration": 0,
+    "name": "",
+    "date": "2021-06-12",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1054022725.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1054022725.torrent",
+    "games": [],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1054022725.ass"
+  },
+  "1053861574,1053916259,1054022725": {
+    "abs_start": 0, "abs_end": 37012, "duration": 0,
+    "name": "Ratchet & Clank: Rift Apart #2 / неПрофессиональный E3 2021 - Ubisoft Forward / неПрофессиональный E3 2021 - Devolver Digital / неПрофессиональный E3 2021 - Gearbox",
+    "date": "2021-06-12",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1053861574,1053916259,1054022725.mp4",
+    "offsets": [0, 5817, 15002],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1053861574,1053916259,1054022725.torrent",
+    "games": ["rc-rift-apart", "e3_2021"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-generated/v1053861574,1053916259,1054022725+0.ass"
   }
 }

@@ -1184,8 +1184,7 @@
       { "name": "ROG Phone 5 Launch Event", "segment": "943938218" },
       { "name": "Square Enix Presents (Весна 2021)", "segment": "953865835", "start": 11085 },
       { "name": "Resident Evil Showcase (Апрель 2021)", "segment": "988804108", "start": 1627 },
-      { "name": "Dying 2 Know - Dying Light 2", "segment": "1036865162", "start": 21520 },
-      { "name": "Summer Game Fest 2021", "segment": "1051795746,1052015039,1052084349", "start": 16241 }
+      { "name": "Dying 2 Know - Dying Light 2", "segment": "1036865162", "start": 21520 }
     ]
   },
   {
@@ -1313,6 +1312,15 @@
       { "name": "Ubisoft (лето, без Артёма)", "segment": "677524120", "start": 13993 },
       { "name": "Microsoft", "segment": "688270341", "start": 9120 },
       { "name": "Ubisoft (осень)", "segment": "736906091", "start": 19707 }
+    ]
+  },
+  {
+    "name": "неПрофессиональный E3 2021",
+    "category": "expos",
+    "id": "e3_2021",
+    "streams": [
+      { "name": "Summer Game Fest", "segment": "1051795746,1052015039,1052084349", "start": 16241 },
+      { "name": "Ubisoft Forward / Devolver Digital / Gearbox", "segment": "1053861574,1053916259,1054022725", "start": 26976 }
     ]
   },
   {
@@ -1603,10 +1611,11 @@
   },
   {
     "name": "Ratchet & Clank: Rift Apart",
-    "category": "ongoing",
+    "category": "finished",
     "id": "rc-rift-apart",
     "streams": [
-      { "name": "1", "segment": "1052761973" }
+      { "name": "1", "segment": "1052761973" },
+      { "name": "2", "segment": "1053861574,1053916259,1054022725" }
     ]
   },
   {
