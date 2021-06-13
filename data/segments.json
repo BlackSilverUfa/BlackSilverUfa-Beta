@@ -8450,7 +8450,6 @@
     "youtube": "Vn0aM9uE6Lc", "official": false, "abs_start": 0, "abs_end": 33824, "duration": 33824,
     "name": "Returnal #1",
     "date": "2021-04-30",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1005904918.torrent",
     "games": ["returnal"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1005904918.ass"
   },
@@ -8846,5 +8845,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1053861574,1053916259,1054022725.torrent",
     "games": ["rc-rift-apart", "e3_2021"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-generated/v1053861574,1053916259,1054022725+0.ass"
+  },
+  "1054943681": {
+    "abs_start": 0, "abs_end": 9120, "duration": 0,
+    "name": "Розыгрыш Resident Evil Village / Chivalry 2 #4 (часть 1)",
+    "date": "2021-06-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1054943681.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1054943681.torrent",
+    "games": ["events", "chivalry-2"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1054943681.ass"
   }
 }
