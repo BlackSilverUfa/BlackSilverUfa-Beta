@@ -8836,10 +8836,9 @@
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1054022725.ass"
   },
   "1053861574,1053916259,1054022725": {
-    "abs_start": 0, "abs_end": 37012, "duration": 0,
+    "youtube": "ZYRBAO7NmWM", "official": false, "abs_start": 0, "abs_end": 36912, "duration": 36912,
     "name": "Ratchet & Clank: Rift Apart #2 / неПрофессиональный E3 2021 - Ubisoft Forward / неПрофессиональный E3 2021 - Devolver Digital / неПрофессиональный E3 2021 - Gearbox",
     "date": "2021-06-12",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1053861574,1053916259,1054022725.mp4",
     "offsets": [0, 5817, 15002],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1053861574,1053916259,1054022725.torrent",
     "games": ["rc-rift-apart", "e3_2021"],
