@@ -8464,7 +8464,6 @@
     "youtube": "tC2z7sJ_9eE", "official": false, "abs_start": 0, "abs_end": 22022, "duration": 22022,
     "name": "Returnal #3 / Resident Evil Village - Деревня (демо) / Resident Evil Village - Замок (демо)",
     "date": "2021-05-02",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1008423983.torrent",
     "games": ["returnal", "re8"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1008423983.ass"
   },
@@ -8860,5 +8859,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1055052153.torrent",
     "games": ["chivalry-2", "e3_2021"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1055052153.ass"
+  },
+  "1055969948": {
+    "abs_start": 0, "abs_end": 25421, "duration": 0,
+    "name": "неПрофессиональный E3 2021 - Take-Two Interactive / Chivalry 2 #5 / неПрофессиональный E3 2021 - Capcom",
+    "date": "2021-06-14",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1055969948.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1055969948.torrent",
+    "games": ["e3_2021", "chivalry-2"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1055969948.ass"
   }
 }
