@@ -8457,7 +8457,6 @@
     "youtube": "SeWJ4qG9CHo", "official": false, "abs_start": 0, "abs_end": 34922, "duration": 34922,
     "name": "Returnal #2",
     "date": "2021-05-01",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1007193234.torrent",
     "games": ["returnal"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1007193234.ass"
   },
@@ -8854,5 +8853,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1054943681.torrent",
     "games": ["events", "chivalry-2"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1054943681.ass"
+  },
+  "1055052153": {
+    "abs_start": 0, "abs_end": 31233, "duration": 0,
+    "name": "Chivalry 2 #4 (часть 2) / неПрофессиональный E3 2021 - Xbox & Bethesda Showcase / неПрофессиональный E3 2021 - Square Enix Presents / неПрофессиональный E3 2021 - PC Gaming Show / неПрофессиональный E3 2021 - Future Games Show",
+    "date": "2021-06-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1055052153.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1055052153.torrent",
+    "games": ["chivalry-2", "e3_2021"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1055052153.ass"
   }
 }

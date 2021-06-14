@@ -334,7 +334,8 @@
       { "name": "1", "segment": "1000457538" },
       { "name": "2", "segment": "1036865162", "start": 17059 },
       { "name": "3", "segment": "1051795746,1052015039,1052084349" },
-      { "name": "4 (часть 1)", "segment": "1054943681", "start": 7595 }
+      { "name": "4 (часть 1)", "segment": "1054943681", "start": 7595 },
+      { "name": "4 (часть 2)", "segment": "1055052153" }
     ]
   },
   {
@@ -1321,7 +1322,8 @@
     "id": "e3_2021",
     "streams": [
       { "name": "Summer Game Fest", "segment": "1051795746,1052015039,1052084349", "start": 16241 },
-      { "name": "Ubisoft Forward / Devolver Digital / Gearbox", "segment": "1053861574,1053916259,1054022725", "start": 26976 }
+      { "name": "Ubisoft Forward / Devolver Digital / Gearbox", "segment": "1053861574,1053916259,1054022725", "start": 26976 },
+      { "name": "Xbox & Bethesda Showcase / Square Enix Presents / PC Gaming Show / Future Games Show", "segment": "1055052153", "start": 4512 }
     ]
   },
   {
