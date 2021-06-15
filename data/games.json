@@ -1325,7 +1325,8 @@
       { "name": "Summer Game Fest", "segment": "1051795746,1052015039,1052084349", "start": 16241 },
       { "name": "Ubisoft Forward / Devolver Digital / Gearbox", "segment": "1053861574,1053916259,1054022725", "start": 26976 },
       { "name": "Xbox & Bethesda Showcase / Square Enix Presents / PC Gaming Show / Future Games Show", "segment": "1055052153", "start": 4512 },
-      { "name": "Take-Two Interactive / Capcom", "segment": "1055969948" }
+      { "name": "Take-Two Interactive / Capcom", "segment": "1055969948" },
+      { "name": "Nintendo Direct", "segment": "1056977056", "start": 4662 }
     ]
   },
   {
@@ -2179,7 +2180,8 @@
       { "name": "Scarlet Nexus (демо)", "segment": "1036865162" },
       { "name": "Wolfenstein: The Old Blood / Spiritfarer / DOOM 64", "segment": "1037951212,1037962598,1038035275,1038124022" },
       { "name": "Necromunda: Hired Gun", "segment": "1043310851" },
-      { "name": "Skinwalker Hunt", "segment": "1048673954", "start": 3412 }
+      { "name": "Skinwalker Hunt", "segment": "1048673954", "start": 3412 },
+      { "name": "Sable (демо)", "segment": "1056977056" }
     ]
   },
   {
