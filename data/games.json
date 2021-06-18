@@ -304,7 +304,8 @@
       { "name": "Hand Simulator: Horror", "segment": "895496717", "start": 4891 },
       { "name": "Draw & Guess / Unlasting Horror / Hide and Seek / Golf Party", "segment": "957785419" },
       { "name": "Ranch Simulator / Horror Squad", "segment": "1003719769", "start": 7739 },
-      { "name": "Just Die Already / A House of Thieves", "segment": "1031432095" }
+      { "name": "Just Die Already / A House of Thieves", "segment": "1031432095" },
+      { "name": "The Red Solstice 2: Survivors", "segment": "1059978031" }
     ]
   },
   {
@@ -1612,7 +1613,8 @@
       { "name": "Voyage", "segment": "937766301" },
       { "name": "Mundaun", "segment": "952632063" },
       { "name": "Paradise Lost", "segment": "961225183" },
-      { "name": "Scene Investigators (демо)", "segment": "1003719769" }
+      { "name": "Scene Investigators (демо)", "segment": "1003719769" },
+      { "name": "Industria (демо) / Greak: Memories of Azur (демо) / Chasing Static (демо) / Song of Iron (демо) / Undying Symphony (демо)", "segment": "1059978031", "start": 9031 }
     ]
   },
   {
@@ -2181,7 +2183,8 @@
       { "name": "Wolfenstein: The Old Blood / Spiritfarer / DOOM 64", "segment": "1037951212,1037962598,1038035275,1038124022" },
       { "name": "Necromunda: Hired Gun", "segment": "1043310851" },
       { "name": "Skinwalker Hunt", "segment": "1048673954", "start": 3412 },
-      { "name": "Sable (демо)", "segment": "1056977056" }
+      { "name": "Sable (демо)", "segment": "1056977056" },
+      { "name": "Death Trash (демо) / Bandit Simulator (демо) / Super Bomberman R Online", "segment": "1059978031", "start": 17844 }
     ]
   },
   {

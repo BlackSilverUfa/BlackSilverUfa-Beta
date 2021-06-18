@@ -8471,7 +8471,6 @@
     "youtube": "K7wgkD65YcU", "official": false, "abs_start": 0, "abs_end": 35902, "duration": 35902,
     "name": "Returnal #4",
     "date": "2021-05-04",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1010778171.torrent",
     "games": ["returnal"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1010778171.ass"
   },
@@ -8874,5 +8873,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1056977056.torrent",
     "games": ["first", "e3_2021"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1056977056.ass"
+  },
+  "1059978031": {
+    "abs_start": 0, "abs_end": 23842, "duration": 0,
+    "name": "The Red Solstice 2: Survivors / Industria (демо) / Greak: Memories of Azur (демо) / Chasing Static (демо) / Song of Iron (демо) / Death Trash (демо) / Undying Symphony (демо) / Bandit Simulator (демо) / Super Bomberman R Online",
+    "date": "2021-06-18",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1059978031.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1059978031.torrent",
+    "games": ["co-op", "single", "first"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1059978031.ass"
   }
 }
