@@ -1614,7 +1614,8 @@
       { "name": "Mundaun", "segment": "952632063" },
       { "name": "Paradise Lost", "segment": "961225183" },
       { "name": "Scene Investigators (демо)", "segment": "1003719769" },
-      { "name": "Industria (демо) / Greak: Memories of Azur (демо) / Chasing Static (демо) / Song of Iron (демо) / Undying Symphony (демо)", "segment": "1059978031", "start": 9031 }
+      { "name": "Industria (демо) / Greak: Memories of Azur (демо) / Chasing Static (демо) / Song of Iron (демо) / Undying Symphony (демо)", "segment": "1059978031", "start": 9031 },
+      { "name": "They Are Here (демо) / Rocket Stop Incident (демо) / Dagon (демо) / Interference (демо) / Tormented Souls / Ebola 2 Survival (демо)", "segment": "1061050549" }
     ]
   },
   {
@@ -2184,7 +2185,8 @@
       { "name": "Necromunda: Hired Gun", "segment": "1043310851" },
       { "name": "Skinwalker Hunt", "segment": "1048673954", "start": 3412 },
       { "name": "Sable (демо)", "segment": "1056977056" },
-      { "name": "Death Trash (демо) / Bandit Simulator (демо) / Super Bomberman R Online", "segment": "1059978031", "start": 17844 }
+      { "name": "Death Trash (демо) / Bandit Simulator (демо) / Super Bomberman R Online", "segment": "1059978031", "start": 17844 },
+      { "name": "Horrors of Space (демо) / Rabbit Hole (демо)", "segment": "1061050549", "start": 19113 }
     ]
   },
   {
