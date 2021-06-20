@@ -8478,7 +8478,6 @@
     "youtube": "4wAZGun2sVk", "official": false, "abs_start": 0, "abs_end": 16304, "duration": 16304,
     "name": "Returnal #5",
     "date": "2021-05-05",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1011964836.torrent",
     "games": ["returnal"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1011964836.ass"
   },
@@ -8889,5 +8888,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1061050549.torrent",
     "games": ["single", "first"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1061050549.ass"
+  },
+  "1062093790": {
+    "abs_start": 0, "abs_end": 12746, "duration": 0,
+    "name": "Barbie in The 12 Dancing Princesses",
+    "date": "2021-06-20",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1062093790.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1062093790.torrent",
+    "games": ["single"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1062093790.ass"
   }
 }
