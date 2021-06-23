@@ -305,7 +305,8 @@
       { "name": "Draw & Guess / Unlasting Horror / Hide and Seek / Golf Party", "segment": "957785419" },
       { "name": "Ranch Simulator / Horror Squad", "segment": "1003719769", "start": 7739 },
       { "name": "Just Die Already / A House of Thieves", "segment": "1031432095" },
-      { "name": "The Red Solstice 2: Survivors", "segment": "1059978031" }
+      { "name": "The Red Solstice 2: Survivors", "segment": "1059978031" },
+      { "name": "Dungeons & Dragons: Dark Alliance", "segment": "1065051420", "start": 7630 }
     ]
   },
   {
@@ -1013,7 +1014,8 @@
       { "name": "26", "segment": "795935885", "start": 25899 },
       { "name": "27", "segment": "886277729", "start": 18027 },
       { "name": "28", "segment": "895496717", "start": 14823 },
-      { "name": "29", "segment": "1003719769", "start": 16579 }
+      { "name": "29", "segment": "1003719769", "start": 16579 },
+      { "name": "30", "segment": "1065051420", "start": 19600 }
     ]
   },
   {
@@ -1925,7 +1927,8 @@
       { "name": "Sony PlayStation 5", "segment": "806256296" },
       { "name": "Asus ROG Zephyrus G14", "segment": "812974689" },
       { "name": "ROG Flow X13", "segment": "962439245" },
-      { "name": "ROG Gladius III", "segment": "1017725694" }
+      { "name": "ROG Gladius III", "segment": "1017725694" },
+      { "name": "Sony BloggerCam ZV-1", "segment": "1065051420" }
     ]
   },
   {
@@ -2241,7 +2244,8 @@
     "id": "phantom-abyss",
     "streams": [
       { "name": "1", "segment": "1030127769" },
-      { "name": "2", "segment": "1031332081", "start": 5724 }
+      { "name": "2", "segment": "1031332081", "start": 5724 },
+      { "name": "3", "segment": "1065051420", "start": 6443 }
     ]
   },
   {
