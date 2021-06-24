@@ -1928,7 +1928,8 @@
       { "name": "Asus ROG Zephyrus G14", "segment": "812974689" },
       { "name": "ROG Flow X13", "segment": "962439245" },
       { "name": "ROG Gladius III", "segment": "1017725694" },
-      { "name": "Sony BloggerCam ZV-1", "segment": "1065051420" }
+      { "name": "Sony BloggerCam ZV-1", "segment": "1065051420" },
+      { "name": "ROG Phone 5", "segment": "1066067703" }
     ]
   },
   {
@@ -2184,13 +2185,22 @@
       { "name": "Sniper Ghost Warrior Contracts 2 (демо)", "segment": "1031332081" },
       { "name": "Pathfinder: Wrath of the Righteous (демо)", "segment": "1033590091" },
       { "name": "Siege Survival: Gloria Victis", "segment": "1035840249" },
-      { "name": "Scarlet Nexus (демо)", "segment": "1036865162" },
       { "name": "Wolfenstein: The Old Blood / Spiritfarer / DOOM 64", "segment": "1037951212,1037962598,1038035275,1038124022" },
       { "name": "Necromunda: Hired Gun", "segment": "1043310851" },
       { "name": "Skinwalker Hunt", "segment": "1048673954", "start": 3412 },
       { "name": "Sable (демо)", "segment": "1056977056" },
       { "name": "Death Trash (демо) / Bandit Simulator (демо) / Super Bomberman R Online", "segment": "1059978031", "start": 17844 },
-      { "name": "Horrors of Space (демо) / Rabbit Hole (демо)", "segment": "1061050549", "start": 19113 }
+      { "name": "Horrors of Space (демо) / Rabbit Hole (демо)", "segment": "1061050549", "start": 19113 },
+      { "name": "Stranger of Paradise: Final Fantasy Origin (демо) / Guilty Gear: Strive", "segment": "1066067703", "start": 13148 }
+    ]
+  },
+  {
+    "name": "Scarlet Nexus",
+    "category": "ongoing",
+    "id": "scarlet-nexus",
+    "streams": [
+      { "name": "Демо", "segment": "1036865162" },
+      { "name": "1", "segment": "1066067703", "start": 2396 }
     ]
   },
   {

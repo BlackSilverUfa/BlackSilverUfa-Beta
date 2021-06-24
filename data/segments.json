@@ -8626,10 +8626,10 @@
   },
   "1036865162": {
     "youtube": "yworObqCUXo", "official": false, "abs_start": 0, "abs_end": 30343, "duration": 30343,
-    "name": "Scarlet Nexus (демо) / Graven #1 / Chivalry 2 #2 / Dying 2 Know - Dying Light 2 / State of Play - Horizon Forbidden West",
+    "name": "Scarlet Nexus - Демо / Graven #1 / Chivalry 2 #2 / Dying 2 Know - Dying Light 2 / State of Play - Horizon Forbidden West",
     "date": "2021-05-27",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1036865162.torrent",
-    "games": ["first", "graven", "chivalry-2", "expos", "sony-sop"],
+    "games": ["scarlet-nexus", "graven", "chivalry-2", "expos", "sony-sop"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1036865162.ass"
   },
   "1037951212": {
@@ -8903,5 +8903,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1065051420.torrent",
     "games": ["unboxing", "phantom-abyss", "co-op", "tricky-towers"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1065051420.ass"
+  },
+  "1066067703": {
+    "abs_start": 0, "abs_end": 19954, "duration": 0,
+    "name": "ROG Phone 5 / Scarlet Nexus #1 / Stranger of Paradise: Final Fantasy Origin (демо) / Guilty Gear: Strive",
+    "date": "2021-06-24",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1066067703.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1066067703.torrent",
+    "games": ["unboxing", "scarlet-nexus", "first"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1066067703.ass"
   }
 }
