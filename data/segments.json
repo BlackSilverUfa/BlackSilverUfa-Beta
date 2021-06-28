@@ -5450,9 +5450,9 @@
   },
   "508178551": {
     "youtube": "pWllHf0z1vE", "abs_start": 0, "abs_end": 17035, "duration": 17035,
-    "name": "Розыгрыш Asus ROG Strix SCAR II / Superliminal / Untitled Goose Game",
+    "name": "Розыгрыш Asus ROG Strix SCAR II / Superliminal / Untitled Goose Game - Первый взгляд",
     "date": "2019-11-14",
-    "games": ["events", "single", "first"],
+    "games": ["events", "single", "goose"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2019/v508178551.ass"
   },
   "508580428": {
@@ -8919,5 +8919,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1067131113.torrent",
     "games": ["sea-of-thieves"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1067131113.ass"
+  },
+  "1070208965": {
+    "abs_start": 0, "abs_end": 24846, "duration": 0,
+    "name": "Open Country / Witch Hunt #3 (заново) / Untitled Goose Game - Кооп",
+    "date": "2021-06-28",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1070208965.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1070208965.torrent",
+    "games": ["first", "witch-hunt", "goose"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1070208965.ass"
   }
 }

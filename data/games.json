@@ -2098,7 +2098,6 @@
       { "name": "Outlast 2", "segment": "502487271", "start": 12851 },
       { "name": "Need for Speed Heat / Red Dead Redemption 2 (PC)", "segment": "504248004" },
       { "name": "Planet Zoo", "segment": "504672487", "start": 13824 },
-      { "name": "Untitled Goose Game", "segment": "508178551", "start": 12041 },
       { "name": "Shenmue III", "segment": "510472726", "start": 11995 },
       { "name": "Gothic - Playable Teaser", "segment": "521336731" },
       { "name": "Trepang2 (демо) / The Paperman", "segment": "524865260" },
@@ -2192,7 +2191,17 @@
       { "name": "Sable (демо)", "segment": "1056977056" },
       { "name": "Death Trash (демо) / Bandit Simulator (демо) / Super Bomberman R Online", "segment": "1059978031", "start": 17844 },
       { "name": "Horrors of Space (демо) / Rabbit Hole (демо)", "segment": "1061050549", "start": 19113 },
-      { "name": "Stranger of Paradise: Final Fantasy Origin (демо) / Guilty Gear: Strive", "segment": "1066067703", "start": 13148 }
+      { "name": "Stranger of Paradise: Final Fantasy Origin (демо) / Guilty Gear: Strive", "segment": "1066067703", "start": 13148 },
+      { "name": "Open Country", "segment": "1070208965" }
+    ]
+  },
+  {
+    "name": "Untitled Goose Game",
+    "category": "finished",
+    "id": "goose",
+    "streams": [
+      { "name": "Первый взгляд", "segment": "508178551", "start": 12041 },
+      { "name": "Кооп", "segment": "1070208965", "start": 14604 }
     ]
   },
   {
@@ -4140,7 +4149,8 @@
     "streams": [
       { "name": "1", "segment": "274651226" },
       { "name": "2 (часть 1)", "segment": "275043417" },
-      { "name": "2 (часть 2)", "segment": "275127021" }
+      { "name": "2 (часть 2)", "segment": "275127021" },
+      { "name": "3 (заново)", "segment": "1070208965", "start": 7439 }
     ]
   },
   {
