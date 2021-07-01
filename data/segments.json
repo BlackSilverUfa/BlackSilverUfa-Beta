@@ -8492,7 +8492,6 @@
     "youtube": "wTItVCf0CPs", "official": false, "abs_start": 0, "abs_end": 12756, "duration": 12756,
     "name": "Resident Evil Village #2 (часть 1)",
     "date": "2021-05-07",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1014133625.torrent",
     "games": ["re8"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1014133625.ass"
   },
@@ -8500,7 +8499,6 @@
     "youtube": "LWtkEh6nsFY", "official": false, "abs_start": 0, "abs_end": 18560, "duration": 18560,
     "name": "Resident Evil Village #2 (часть 2)",
     "date": "2021-05-07",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1014279040.torrent",
     "games": ["re8"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1014279040.ass"
   },
@@ -8626,10 +8624,10 @@
   },
   "1036865162": {
     "youtube": "yworObqCUXo", "official": false, "abs_start": 0, "abs_end": 30343, "duration": 30343,
-    "name": "Scarlet Nexus - Демо / Graven #1 / Chivalry 2 #2 / Dying 2 Know - Dying Light 2 / State of Play - Horizon Forbidden West",
+    "name": "Scarlet Nexus - Демо / Graven #1 / Chivalry 2 #2 / Dying 2 Know #1 / State of Play - Horizon Forbidden West",
     "date": "2021-05-27",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1036865162.torrent",
-    "games": ["scarlet-nexus", "graven", "chivalry-2", "expos", "sony-sop"],
+    "games": ["scarlet-nexus", "graven", "chivalry-2", "dying-2-know", "sony-sop"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1036865162.ass"
   },
   "1037951212": {
@@ -8935,5 +8933,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1072311121.torrent",
     "games": ["first"],
     "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1072311121.ass"
+  },
+  "1073309664": {
+    "abs_start": 0, "abs_end": 33781, "duration": 0,
+    "name": "Dying Light / Dying 2 Know #2",
+    "date": "2021-07-01",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1073309664.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1073309664.torrent",
+    "games": ["first", "dying-2-know"],
+    "subtitles": "https://blackufa-chats.thedrhax.pw/chats-2021/v1073309664.ass"
   }
 }
