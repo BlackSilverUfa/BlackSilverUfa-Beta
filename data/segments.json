@@ -8506,7 +8506,6 @@
     "youtube": "NyNrYaCj928", "official": false, "abs_start": 0, "abs_end": 13522, "duration": 13522,
     "name": "ROG Gladius III / Starless / War Mongrels / Metro Exodus - Enhanced Edition",
     "date": "2021-05-10",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1017725694.torrent",
     "games": ["unboxing", "first", "metro-exodus"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1017725694.ass"
   },
@@ -8514,7 +8513,6 @@
     "youtube": "w4F6IQSX6XA", "official": false, "abs_start": 0, "abs_end": 20399, "duration": 20399,
     "name": "Until We Die - Демо / Severed Steel (демо) / In Sound Mind #2 (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together / Wreckfest #6 / Subnautica: Below Zero #8 (релиз)",
     "date": "2021-05-13",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1021117640.torrent",
     "games": ["until-we-die", "first", "in-sound-mind", "wreckfest", "subnautica-bz"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1021117640.ass"
   },
@@ -8941,5 +8939,33 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1073309664.torrent",
     "games": ["first", "dying-2-know"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1073309664.ass"
+  },
+  "1081385499": {
+    "abs_start": 0, "abs_end": 1696, "duration": 0,
+    "name": "",
+    "date": "2021-07-09",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1081385499.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1081385499.torrent",
+    "games": [],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1081385499.ass"
+  },
+  "1081403044": {
+    "abs_start": 0, "abs_end": 23631, "duration": 0,
+    "name": "",
+    "date": "2021-07-09",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1081403044.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1081403044.torrent",
+    "games": [],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1081403044.ass"
+  },
+  "1081385499,1081403044": {
+    "abs_start": 0, "abs_end": 25327, "duration": 0,
+    "name": "Розыгрыш Dying Light / Black Skylands / WitcherCon",
+    "date": "2021-07-09",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1081385499,1081403044.mp4",
+    "offsets": [0, 1658],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1081385499,1081403044.torrent",
+    "games": ["events", "first", "expos"],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/generated/v1081385499,1081403044+0.ass"
   }
 }

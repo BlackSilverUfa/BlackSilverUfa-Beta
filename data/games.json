@@ -1189,7 +1189,8 @@
       { "name": "Xbox Inside 2020", "segment": "613793616", "start": 7180 },
       { "name": "ROG Phone 5 Launch Event", "segment": "943938218" },
       { "name": "Square Enix Presents (Весна 2021)", "segment": "953865835", "start": 11085 },
-      { "name": "Resident Evil Showcase (Апрель 2021)", "segment": "988804108", "start": 1627 }
+      { "name": "Resident Evil Showcase (Апрель 2021)", "segment": "988804108", "start": 1627 },
+      { "name": "WitcherCon", "segment": "1081385499,1081403044", "start": 14495 }
     ]
   },
   {
@@ -1911,7 +1912,8 @@
       { "name": "Розыгрыш NVIDIA GeForce RTX 2080 Super", "segment": "823035178" },
       { "name": "Игровые коллекции зрителей", "segment": "975061581", "start": 9662 },
       { "name": "Розыгрыш ROG Gladius III", "segment": "1025736815" },
-      { "name": "Розыгрыш Resident Evil Village", "segment": "1054943681" }
+      { "name": "Розыгрыш Resident Evil Village", "segment": "1054943681" },
+      { "name": "Розыгрыш Dying Light", "segment": "1081385499,1081403044" }
     ]
   },
   {
@@ -2202,7 +2204,8 @@
       { "name": "Stranger of Paradise: Final Fantasy Origin (демо) / Guilty Gear: Strive", "segment": "1066067703", "start": 13148 },
       { "name": "Open Country", "segment": "1070208965" },
       { "name": "Call of Duty: Mobile / Genshin Impact / Клуб Романтики / Sky: Children of the Light", "segment": "1072311121" },
-      { "name": "Dying Light", "segment": "1073309664" }
+      { "name": "Dying Light", "segment": "1073309664" },
+      { "name": "Black Skylands", "segment": "1081385499,1081403044", "start": 6522 }
     ]
   },
   {
