@@ -2317,7 +2317,7 @@
     "subtitles": "https://blackufa.thedrhax.pw/chats/2018/v268055630.ass"
   },
   "268114023": {
-    "youtube": "z6-UAR6wjlI", "official": false, "abs_start": 0, "abs_end": 18163, "duration": 18163,
+    "abs_start": 0, "abs_end": 18223, "duration": 0,
     "name": "Dark Souls: Remastered #1 (заново, со зрителями)",
     "date": "2018-06-01",
     "games": ["ds-remastered"],
@@ -8520,7 +8520,6 @@
     "youtube": "RTa60x9-sic", "official": false, "abs_start": 0, "abs_end": 27138, "duration": 27138,
     "name": "Mass Effect: Legendary Edition #1",
     "date": "2021-05-14",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1022192586.torrent",
     "games": ["me"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1022192586.ass"
   },
