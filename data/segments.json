@@ -8959,10 +8959,9 @@
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1081403044.ass"
   },
   "1081385499,1081403044": {
-    "abs_start": 0, "abs_end": 25327, "duration": 0,
+    "youtube": "J5vdms8SCig", "official": false, "abs_start": 0, "abs_end": 25272, "duration": 25272,
     "name": "Розыгрыш Dying Light / Black Skylands / WitcherCon",
     "date": "2021-07-09",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1081385499,1081403044.mp4",
     "offsets": [0, 1658],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1081385499,1081403044.torrent",
     "games": ["events", "first", "expos"],
