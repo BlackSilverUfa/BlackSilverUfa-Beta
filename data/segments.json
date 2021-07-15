@@ -8983,10 +8983,9 @@
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1086545283.ass"
   },
   "1086385946,1086545283": {
-    "abs_start": 0, "abs_end": 24884, "duration": 0,
+    "youtube": "3FJwiaw0Bl4", "official": false, "abs_start": 0, "abs_end": 24803, "duration": 24803,
     "name": "Farmer's Life: Prologue / Reminiscence / SuchArt: Genius Artist Simulator #2",
     "date": "2021-07-14",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1086385946,1086545283.mp4",
     "offsets": [0, 13862],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1086385946,1086545283.torrent",
     "games": ["first", "single", "suchart"],
