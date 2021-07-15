@@ -965,7 +965,8 @@
       { "name": "4", "segment": "291392607.1" },
       { "name": "5", "segment": "293415850", "start": 15477 },
       { "name": "6", "segment": "294220536", "start": 15886 },
-      { "name": "7", "segment": "294641160", "start": 10660 }
+      { "name": "7", "segment": "294641160", "start": 10660 },
+      { "name": "8", "segment": "1087387683,1087417437", "start": 17679 }
     ]
   },
   {
@@ -2104,7 +2105,6 @@
       { "name": "Stygian: Reign of the Old Ones", "segment": "490059507" },
       { "name": "Ghostbusters", "segment": "490488498", "start": 14482 },
       { "name": "Home Sweet Home: Episode II", "segment": "491017258", "start": 11075 },
-      { "name": "Chernobylite", "segment": "495362547,495449259", "start": 226, "force_start": true },
       { "name": "Cooking Simulator / House Flipper", "segment": "499849877" },
       { "name": "Outlast 2", "segment": "502487271", "start": 12851 },
       { "name": "Need for Speed Heat / Red Dead Redemption 2 (PC)", "segment": "504248004" },
@@ -2207,6 +2207,15 @@
       { "name": "Dying Light", "segment": "1073309664" },
       { "name": "Black Skylands", "segment": "1081385499,1081403044", "start": 6522 },
       { "name": "Farmer's Life: Prologue", "segment": "1086385946,1086545283" }
+    ]
+  },
+  {
+    "name": "Chernobylite",
+    "category": "ongoing",
+    "id": "chernobylite",
+    "streams": [
+      { "name": "Альфа", "segment": "495362547,495449259", "start": 226, "force_start": true },
+      { "name": "Релиз", "segment": "1087387683,1087417437" }
     ]
   },
   {
