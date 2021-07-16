@@ -9006,10 +9006,9 @@
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1087417437.ass"
   },
   "1087387683,1087417437": {
-    "abs_start": 0, "abs_end": 29810, "duration": 0,
+    "youtube": "sq8rpDBSqG4", "official": false, "abs_start": 0, "abs_end": 29743, "duration": 29743,
     "name": "Chernobylite - Релиз / Escape From Tarkov #8",
     "date": "2021-07-15",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1087387683,1087417437.mp4",
     "offsets": [0, 3157],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1087387683,1087417437.torrent",
     "games": ["chernobylite", "tarkov"],
