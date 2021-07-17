@@ -9032,10 +9032,9 @@
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1088621069.ass"
   },
   "1088456849,1088621069": {
-    "abs_start": 0, "abs_end": 15051, "duration": 0,
+    "youtube": "ukScfxygDPU", "official": false, "abs_start": 0, "abs_end": 15010, "duration": 15010,
     "name": "GeoGuessr #8 / Friday the 13th #4",
     "date": "2021-07-16",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1088456849,1088621069.mp4",
     "offsets": [0, 14064],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1088456849,1088621069.torrent",
     "games": ["geoguessr", "friday-13th"],
