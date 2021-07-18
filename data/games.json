@@ -2204,11 +2204,20 @@
       { "name": "Horrors of Space (демо) / Rabbit Hole (демо)", "segment": "1061050549", "start": 19113 },
       { "name": "Stranger of Paradise: Final Fantasy Origin (демо) / Guilty Gear: Strive", "segment": "1066067703", "start": 13148 },
       { "name": "Open Country", "segment": "1070208965" },
-      { "name": "Call of Duty: Mobile / Genshin Impact / Клуб Романтики / Sky: Children of the Light", "segment": "1072311121" },
+      { "name": "Call of Duty: Mobile / Клуб Романтики / Sky: Children of the Light", "segment": "1072311121" },
       { "name": "Dying Light", "segment": "1073309664" },
       { "name": "Black Skylands", "segment": "1081385499,1081403044", "start": 6522 },
       { "name": "Farmer's Life: Prologue", "segment": "1086385946,1086545283" },
       { "name": "The Legend of Zelda: Skyward Sword HD", "segment": "1089427413" }
+    ]
+  },
+  {
+    "name": "Genshin Impact",
+    "category": "ongoing",
+    "id": "genshin-impact",
+    "streams": [
+      { "name": "1", "segment": "1072311121", "start": 2549 },
+      { "name": "2 (заново, PC)", "segment": "1090437240" }
     ]
   },
   {
