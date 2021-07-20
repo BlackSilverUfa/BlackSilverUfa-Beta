@@ -1893,7 +1893,8 @@
       { "name": "2", "segment": "740853378", "start": 6841 },
       { "name": "3", "segment": "754538542" },
       { "name": "4 (новогодний выпуск)", "segment": "856402931" },
-      { "name": "5", "segment": "907145168" }
+      { "name": "5", "segment": "907145168" },
+      { "name": "6", "segment": "1092418023" }
     ]
   },
   {
@@ -2209,7 +2210,8 @@
       { "name": "Dying Light", "segment": "1073309664" },
       { "name": "Black Skylands", "segment": "1081385499,1081403044", "start": 6522 },
       { "name": "Farmer's Life: Prologue", "segment": "1086385946,1086545283" },
-      { "name": "The Legend of Zelda: Skyward Sword HD", "segment": "1089427413" }
+      { "name": "The Legend of Zelda: Skyward Sword HD", "segment": "1089427413" },
+      { "name": "Death's Door / Underwater / I'm on Observation Duty / Raid: Shadow Legends", "segment": "1092418023" }
     ]
   },
   {
