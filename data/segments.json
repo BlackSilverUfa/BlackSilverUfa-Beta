@@ -8618,8 +8618,6 @@
     "abs_start": 0, "abs_end": 673, "duration": 0,
     "name": "",
     "date": "2021-05-28",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1037951212.mp4",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1037951212.torrent",
     "games": [],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1037951212.ass"
   },
@@ -8627,8 +8625,6 @@
     "abs_start": 0, "abs_end": 6346, "duration": 0,
     "name": "",
     "date": "2021-05-28",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1037962598.mp4",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1037962598.torrent",
     "games": [],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1037962598.ass"
   },
@@ -8655,7 +8651,6 @@
     "name": "Xbox Game Pass #2 / Wolfenstein: The Old Blood / Spiritfarer / DOOM 64 / Maneater #2 / Resident Evil 6 #1 (Леон)",
     "date": "2021-05-28",
     "offsets": [0, 637, 6926, 13280],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1037951212,1037962598,1038035275,1038124022.torrent",
     "games": ["xbox-gp", "first", "maneater", "re6"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/generated/v1037951212,1037962598,1038035275,1038124022+0.ass"
   },
@@ -9092,5 +9087,33 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1093482724,1093514203.torrent",
     "games": ["tloz-sshd"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/generated/v1093482724,1093514203+0.ass"
+  },
+  "1093719957": {
+    "abs_start": 0, "abs_end": 676, "duration": 0,
+    "name": "",
+    "date": "2021-07-21",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1093719957.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1093719957.torrent",
+    "games": [],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1093719957.ass"
+  },
+  "1093732841": {
+    "abs_start": 0, "abs_end": 3014, "duration": 0,
+    "name": "",
+    "date": "2021-07-21",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1093732841.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1093732841.torrent",
+    "games": [],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1093732841.ass"
+  },
+  "1093719957,1093732841": {
+    "abs_start": 0, "abs_end": 3690, "duration": 0,
+    "name": "Demon's Souls Remake - Тестовый стрим (NG+)",
+    "date": "2021-07-21",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1093719957,1093732841.mp4",
+    "offsets": [0, 659],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1093719957,1093732841.torrent",
+    "games": ["demons-souls-remake"],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/generated/v1093719957,1093732841+0.ass"
   }
 }
