@@ -2210,8 +2210,16 @@
       { "name": "Dying Light", "segment": "1073309664" },
       { "name": "Black Skylands", "segment": "1081385499,1081403044", "start": 6522 },
       { "name": "Farmer's Life: Prologue", "segment": "1086385946,1086545283" },
-      { "name": "The Legend of Zelda: Skyward Sword HD", "segment": "1089427413" },
       { "name": "Death's Door / Underwater / I'm on Observation Duty / Raid: Shadow Legends", "segment": "1092418023" }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: Skyward Sword HD",
+    "category": "ongoing",
+    "id": "tloz-sshd",
+    "streams": [
+      { "name": "1", "segment": "1089427413" },
+      { "name": "2", "segment": "1093482724,1093514203" }
     ]
   },
   {
