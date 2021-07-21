@@ -9107,10 +9107,9 @@
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1093732841.ass"
   },
   "1093719957,1093732841": {
-    "abs_start": 0, "abs_end": 3690, "duration": 0,
+    "youtube": "6HWDszZm4i8", "official": false, "abs_start": 0, "abs_end": 3658, "duration": 3658,
     "name": "Demon's Souls Remake - Тестовый стрим (NG+)",
     "date": "2021-07-21",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1093719957,1093732841.mp4",
     "offsets": [0, 659],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1093719957,1093732841.torrent",
     "games": ["demons-souls-remake"],
