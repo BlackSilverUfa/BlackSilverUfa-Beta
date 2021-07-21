@@ -9087,10 +9087,9 @@
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1093514203.ass"
   },
   "1093482724,1093514203": {
-    "abs_start": 0, "abs_end": 2523, "duration": 0,
+    "youtube": "JA0go6R_bu0", "official": false, "abs_start": 0, "abs_end": 2445, "duration": 2445,
     "name": "The Legend of Zelda: Skyward Sword HD #2",
     "date": "2021-07-21",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1093482724,1093514203.mp4",
     "offsets": [0, 2020],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1093482724,1093514203.torrent",
     "games": ["tloz-sshd"],
