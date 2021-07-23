@@ -2210,7 +2210,8 @@
       { "name": "Dying Light", "segment": "1073309664" },
       { "name": "Black Skylands", "segment": "1081385499,1081403044", "start": 6522 },
       { "name": "Farmer's Life: Prologue", "segment": "1086385946,1086545283" },
-      { "name": "Death's Door / Underwater / I'm on Observation Duty / Raid: Shadow Legends", "segment": "1092418023" }
+      { "name": "Death's Door / Underwater / I'm on Observation Duty / Raid: Shadow Legends", "segment": "1092418023" },
+      { "name": "Noosphere / I'm on Observation Duty 2 / Ghost Hunters Corp", "segment": "1095567001,1095811167" }
     ]
   },
   {
@@ -2933,7 +2934,8 @@
       { "name": "5", "segment": "663976925" },
       { "name": "6", "segment": "1044426110", "start": 12795 },
       { "name": "7", "segment": "1048673954", "start": 18558 },
-      { "name": "8", "segment": "1088456849,1088621069" }
+      { "name": "8", "segment": "1088456849,1088621069" },
+      { "name": "9", "segment": "1095567001,1095811167", "start": 19991 }
     ]
   },
   {
