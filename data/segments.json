@@ -8639,8 +8639,6 @@
     "abs_start": 0, "abs_end": 12650, "duration": 0,
     "name": "",
     "date": "2021-05-28",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1038124022.mp4",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1038124022.torrent",
     "games": [],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1038124022.ass"
   },
@@ -8656,7 +8654,6 @@
     "youtube": "sXvwIHFj5y0", "official": false, "abs_start": 0, "abs_end": 16626, "duration": 16626,
     "name": "Resident Evil 6 #2 (Леон, Крис)",
     "date": "2021-05-29",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1039198379.torrent",
     "games": ["re6"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1039198379.ass"
   },
@@ -9139,5 +9136,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1095567001,1095811167.torrent",
     "games": ["first", "geoguessr"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/generated/v1095567001,1095811167+0.ass"
+  },
+  "1096585533": {
+    "abs_start": 0, "abs_end": 24923, "duration": 0,
+    "name": "Grounded #5 (3D)",
+    "date": "2021-07-24",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1096585533.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1096585533.torrent",
+    "games": ["grounded"],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1096585533.ass"
   }
 }
