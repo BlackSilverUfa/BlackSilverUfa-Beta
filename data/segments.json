@@ -8661,7 +8661,6 @@
     "youtube": "SWvCCAmZGBg", "official": false, "abs_start": 0, "abs_end": 18056, "duration": 18056,
     "name": "Resident Evil 6 #3 (Крис)",
     "date": "2021-05-31",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1041310214.torrent",
     "games": ["re6"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1041310214.ass"
   },
@@ -9144,5 +9143,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1096585533.torrent",
     "games": ["grounded"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1096585533.ass"
+  },
+  "1098539430": {
+    "abs_start": 0, "abs_end": 22798, "duration": 0,
+    "name": "Grounded #6 (3D)",
+    "date": "2021-07-26",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1098539430.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1098539430.torrent",
+    "games": ["grounded"],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1098539430.ass"
   }
 }
