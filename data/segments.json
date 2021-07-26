@@ -9138,10 +9138,9 @@
     "subtitles": "https://blackufa.thedrhax.pw/chats/generated/v1095567001,1095811167+0.ass"
   },
   "1096585533": {
-    "abs_start": 0, "abs_end": 24923, "duration": 0,
+    "youtube": "0JMyMebRVWM", "official": false, "abs_start": 0, "abs_end": 24920, "duration": 24920,
     "name": "Grounded #5 (3D)",
     "date": "2021-07-24",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1096585533.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1096585533.torrent",
     "games": ["grounded"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1096585533.ass"
