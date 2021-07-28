@@ -8675,7 +8675,6 @@
     "youtube": "nqwpl6KL_ms", "official": false, "abs_start": 0, "abs_end": 17995, "duration": 17995,
     "name": "World of Warcraft #1 (заново) / GeoGuessr #6 / Operation: Tango #1",
     "date": "2021-06-03",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1044426110.torrent",
     "games": ["wow", "geoguessr", "op-tango"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1044426110.ass"
   },
@@ -9159,5 +9158,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1099599998.torrent",
     "games": ["single"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1099599998.ass"
+  },
+  "1100650264": {
+    "abs_start": 0, "abs_end": 21415, "duration": 0,
+    "name": "Grounded #7 (3D)",
+    "date": "2021-07-28",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1100650264.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1100650264.torrent",
+    "games": ["grounded"],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1100650264.ass"
   }
 }
