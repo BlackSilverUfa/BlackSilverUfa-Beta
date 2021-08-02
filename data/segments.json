@@ -8696,8 +8696,6 @@
     "abs_start": 0, "abs_end": 204, "duration": 0,
     "name": "",
     "date": "2021-06-04",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1045800801.mp4",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1045800801.torrent",
     "games": [],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1045800801.ass"
   },
@@ -8713,7 +8711,6 @@
     "youtube": "OQRi6ofHe-8", "official": false, "abs_start": 0, "abs_end": 25844, "duration": 25844,
     "name": "Resident Evil 6 #4 (Джейк, Ада)",
     "date": "2021-06-05",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1046577531.torrent",
     "games": ["re6"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1046577531.ass"
   },
@@ -9187,5 +9184,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1103759348.torrent",
     "games": ["todo"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1103759348.ass"
+  },
+  "1105750453": {
+    "abs_start": 0, "abs_end": 25400, "duration": 0,
+    "name": "Не оформлено (я в отпуске) #1105750453",
+    "date": "2021-08-02",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1105750453.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1105750453.torrent",
+    "games": ["todo"],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1105750453.ass"
   }
 }
