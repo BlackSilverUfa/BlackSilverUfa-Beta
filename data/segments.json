@@ -9144,9 +9144,10 @@
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1098539430.ass"
   },
   "1099599998": {
-    "youtube": "J8SuXsPJUwM", "official": false, "abs_start": 0, "abs_end": 21714, "duration": 21714,
+    "abs_start": 0, "abs_end": 21701, "duration": 0,
     "name": "Z Mutants / Summer of '58 / From Day To Day (демо)",
     "date": "2021-07-27",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1099599998.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1099599998.torrent",
     "games": ["single"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1099599998.ass"
