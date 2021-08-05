@@ -8718,7 +8718,6 @@
     "youtube": "SKpFX8VGFsk", "official": false, "abs_start": 0, "abs_end": 21763, "duration": 21763,
     "name": "Until We Die #1 / Skinwalker Hunt / SnowRunner #19 / GeoGuessr #7",
     "date": "2021-06-07",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1048673954.torrent",
     "games": ["until-we-die", "first", "snowrunner", "geoguessr"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1048673954.ass"
   },
@@ -9200,5 +9199,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1106771829.torrent",
     "games": ["todo"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1106771829.ass"
+  },
+  "1108872519": {
+    "abs_start": 0, "abs_end": 29306, "duration": 0,
+    "name": "Не оформлено (я в отпуске) #1108872519",
+    "date": "2021-08-05",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1108872519.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1108872519.torrent",
+    "games": ["todo"],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1108872519.ass"
   }
 }
