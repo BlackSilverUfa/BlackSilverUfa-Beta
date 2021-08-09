@@ -8949,11 +8949,11 @@
   },
   "1086385946,1086545283": {
     "youtube": "3FJwiaw0Bl4", "official": false, "abs_start": 0, "abs_end": 24803, "duration": 24803,
-    "name": "Farmer's Life: Prologue / Reminiscence / SuchArt: Genius Artist Simulator #2",
+    "name": "Farmer's Life - Prologue / Reminiscence / SuchArt: Genius Artist Simulator #2",
     "date": "2021-07-14",
     "offsets": [0, 13862],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1086385946,1086545283.torrent",
-    "games": ["first", "single", "suchart"],
+    "games": ["farmers-life", "single", "suchart"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/generated/v1086385946,1086545283+0.ass"
   },
   "1087387683": {
@@ -9183,10 +9183,10 @@
   },
   "1105750453": {
     "youtube": "X_G9qQg1HxI", "abs_start": 0, "abs_end": 25379, "duration": 25379,
-    "name": "Не оформлено (я в отпуске) #1105750453",
+    "name": "Star Wars - Redemption / Farmer's Life #1 / Horror Tales: The Wine",
     "date": "2021-08-02",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1105750453.torrent",
-    "games": ["todo"],
+    "games": ["first", "farmers-life"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1105750453.ass"
   },
   "1106771829": {

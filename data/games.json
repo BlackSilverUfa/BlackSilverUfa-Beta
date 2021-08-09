@@ -2210,10 +2210,19 @@
       { "name": "Call of Duty: Mobile / Клуб Романтики / Sky: Children of the Light", "segment": "1072311121" },
       { "name": "Dying Light", "segment": "1073309664" },
       { "name": "Black Skylands", "segment": "1081385499,1081403044", "start": 6522 },
-      { "name": "Farmer's Life: Prologue", "segment": "1086385946,1086545283" },
       { "name": "Death's Door / Underwater / Raid: Shadow Legends", "segment": "1092418023" },
       { "name": "Noosphere / Ghost Hunters Corp", "segment": "1095567001,1095811167" },
-      { "name": "Microsoft Flight Simulator / The Ascent", "segment": "1102702263" }
+      { "name": "Microsoft Flight Simulator / The Ascent", "segment": "1102702263" },
+      { "name": "Star Wars - Redemption / Horror Tales: The Wine", "segment": "1105750453" }
+    ]
+  },
+  {
+    "name": "Farmer's Life",
+    "category": "ongoing",
+    "id": "farmers-life",
+    "streams": [
+      { "name": "Prologue", "segment": "1086385946,1086545283" },
+      { "name": "1", "segment": "1105750453", "start": 5761 }
     ]
   },
   {
@@ -4551,7 +4560,6 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "name": "1105750453", "segment": "1105750453" },
       { "name": "1106771829", "segment": "1106771829" },
       { "name": "1108872519", "segment": "1108872519" },
       { "name": "1109866143", "segment": "1109866143" },
