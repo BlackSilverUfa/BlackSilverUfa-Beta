@@ -2212,8 +2212,19 @@
       { "name": "Dying Light", "segment": "1073309664" },
       { "name": "Black Skylands", "segment": "1081385499,1081403044", "start": 6522 },
       { "name": "Farmer's Life: Prologue", "segment": "1086385946,1086545283" },
-      { "name": "Death's Door / Underwater / I'm on Observation Duty / Raid: Shadow Legends", "segment": "1092418023" },
-      { "name": "Noosphere / I'm on Observation Duty 2 / Ghost Hunters Corp", "segment": "1095567001,1095811167" }
+      { "name": "Death's Door / Underwater / Raid: Shadow Legends", "segment": "1092418023" },
+      { "name": "Noosphere / Ghost Hunters Corp", "segment": "1095567001,1095811167" },
+      { "name": "Microsoft Flight Simulator / The Ascent", "segment": "1102702263" }
+    ]
+  },
+  {
+    "name": "I'm on Observation Duty",
+    "category": "infinite",
+    "id": "observation-duty",
+    "streams": [
+      { "name": "Часть 1", "segment": "1092418023", "start": 6233 },
+      { "name": "Часть 2 #1", "segment": "1095567001,1095811167", "start": 10223 },
+      { "name": "Часть 2 #2 / Часть 3", "segment": "1102702263", "start": 18643 }
     ]
   },
   {
@@ -4532,7 +4543,6 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "name": "1102702263", "segment": "1102702263" },
       { "name": "1103759348", "segment": "1103759348" },
       { "name": "1105750453", "segment": "1105750453" },
       { "name": "1106771829", "segment": "1106771829" },
