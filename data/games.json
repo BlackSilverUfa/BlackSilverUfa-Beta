@@ -2064,7 +2064,6 @@
       { "name": "Max Payne: Блэк Эдишн", "segment": "323817086" },
       { "name": "Thronebreaker: The Witcher Tales", "segment": "326381815" },
       { "name": "Total Chaos", "segment": "332769459" },
-      { "name": "Fallout 76", "segment": "335751293" },
       { "name": "Pokemon: Let's Go, Pikachu!", "segment": "337051811" },
       { "name": "Metal Gear Solid 3: Snake Eater", "segment": "338345713.1" },
       { "name": "Darksiders 3", "segment": "340934900" },
@@ -2215,6 +2214,15 @@
       { "name": "Death's Door / Underwater / Raid: Shadow Legends", "segment": "1092418023" },
       { "name": "Noosphere / Ghost Hunters Corp", "segment": "1095567001,1095811167" },
       { "name": "Microsoft Flight Simulator / The Ascent", "segment": "1102702263" }
+    ]
+  },
+  {
+    "name": "Fallout 76",
+    "category": "ongoing",
+    "id": "fallout-76",
+    "streams": [
+      { "name": "1 (с WeLoveGames)", "segment": "335751293" },
+      { "name": "2 (с Дашей и Джеком)", "segment": "1103759348" }
     ]
   },
   {
@@ -4543,7 +4551,6 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "name": "1103759348", "segment": "1103759348" },
       { "name": "1105750453", "segment": "1105750453" },
       { "name": "1106771829", "segment": "1106771829" },
       { "name": "1108872519", "segment": "1108872519" },
