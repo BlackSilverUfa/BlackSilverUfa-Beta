@@ -9199,26 +9199,26 @@
   },
   "1108872519": {
     "youtube": "xqLNOG_wez0", "abs_start": 0, "abs_end": 29305, "duration": 29305,
-    "name": "Не оформлено (я в отпуске) #1108872519",
+    "name": "LiBER / Сетапы зрителей #7 / Back 4 Blood #1",
     "date": "2021-08-05",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1108872519.torrent",
-    "games": ["todo"],
+    "games": ["first", "setups", "b4b"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1108872519.ass"
   },
   "1109866143": {
     "youtube": "i1XHET0r508", "abs_start": 0, "abs_end": 23298, "duration": 23298,
-    "name": "Не оформлено (я в отпуске) #1109866143",
+    "name": "Trenches / GeoGuessr #10 / Back 4 Blood #2",
     "date": "2021-08-06",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1109866143.torrent",
-    "games": ["todo"],
+    "games": ["single", "geoguessr", "b4b"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1109866143.ass"
   },
   "1111966540": {
     "youtube": "JnZc71z5IKk", "abs_start": 0, "abs_end": 23753, "duration": 23753,
-    "name": "Не оформлено (я в отпуске) #1111966540",
+    "name": "NEO: The World Ends with You / GeoGuessr #11 / Camping Simulator / The Greatest Penguin Heist of All Time / Haunt Chaser / Tricky Towers #31",
     "date": "2021-08-08",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1111966540.torrent",
-    "games": ["todo"],
+    "games": ["first", "geoguessr", "co-op", "tricky-towers"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1111966540.ass"
   }
 }
