@@ -2213,7 +2213,17 @@
       { "name": "Death's Door / Underwater / Raid: Shadow Legends", "segment": "1092418023" },
       { "name": "Noosphere / Ghost Hunters Corp", "segment": "1095567001,1095811167" },
       { "name": "Microsoft Flight Simulator / The Ascent", "segment": "1102702263" },
-      { "name": "Star Wars - Redemption / Horror Tales: The Wine", "segment": "1105750453" }
+      { "name": "Star Wars - Redemption", "segment": "1105750453" },
+      { "name": "HighFleet / Deca", "segment": "1106771829" }
+    ]
+  },
+  {
+    "name": "Horror Tales: The Wine",
+    "category": "finished",
+    "id": "ht-wine",
+    "streams": [
+      { "name": "1", "segment": "1105750453", "start": 13138 },
+      { "name": "2", "segment": "1106771829", "start": 10464 }
     ]
   },
   {
@@ -4560,7 +4570,6 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "name": "1106771829", "segment": "1106771829" },
       { "name": "1108872519", "segment": "1108872519" },
       { "name": "1109866143", "segment": "1109866143" },
       { "name": "1111966540", "segment": "1111966540" }
