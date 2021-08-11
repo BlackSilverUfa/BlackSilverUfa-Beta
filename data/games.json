@@ -2178,7 +2178,7 @@
       { "name": "The Falconeer / Prodeus / Mortal Kombat 11 Ultimate", "segment": "816312412" },
       { "name": "Road Rash 3", "segment": "821805079" },
       { "name": "XIII Remake / Chronos: Before the Ashes / Twin Mirror", "segment": "823035178", "start": 1312 },
-      { "name": "Morbid: The Seven Acolytes / The Life and Suffering of Sir Brante", "segment": "824147065" },
+      { "name": "Morbid: The Seven Acolytes / The Life and Suffering of SirПервый вз Brante", "segment": "824147065" },
       { "name": "El Hijo: A Wild West Game / Worms Rumble", "segment": "828815728" },
       { "name": "Gothic", "segment": "849365667" },
       { "name": "Gone Golfing", "segment": "850367913", "start": 12150 },
@@ -2230,7 +2230,26 @@
       { "name": "HighFleet / Deca", "segment": "1106771829" },
       { "name": "LiBER", "segment": "1108872519" },
       { "name": "NEO: The World Ends with You", "segment": "1111966540" },
-      { "name": "ColdSide / Almost My Floor / SCP Terror Hunt", "segment": "1113958095" }
+      { "name": "ColdSide", "segment": "1113958095" },
+      { "name": "Glitchpunk", "segment": "1114974794" }
+    ]
+  },
+  {
+    "name": "SCP Terror Hunt",
+    "category": "infinite",
+    "id": "scp-terror-hunt",
+    "streams": [
+      { "name": "1", "segment": "1113958095", "start": 16668 },
+      { "name": "2", "segment": "1114974794", "start": 16524 }
+    ]
+  },
+  {
+    "name": "Almost My Floor",
+    "category": "finished",
+    "id": "amfloor",
+    "streams": [
+      { "name": "1", "segment": "1113958095", "start": 9826 },
+      { "name": "2", "segment": "1114974794", "start": 10319 }
     ]
   },
   {

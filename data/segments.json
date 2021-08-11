@@ -7548,7 +7548,7 @@
   },
   "824147065": {
     "youtube": "3s3x1Gp8vvQ", "abs_start": 0, "abs_end": 26521, "duration": 26521,
-    "name": "Morbid: The Seven Acolytes / Haven #1 / The Life and Suffering of Sir Brante / Immortals Fenyx Rising #2",
+    "name": "Morbid: The Seven Acolytes / Haven #1 / The Life and Suffering of SirПервый вз Brante / Immortals Fenyx Rising #2",
     "date": "2020-12-03",
     "games": ["first", "haven", "immortals-fr"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2020/v824147065.ass"
@@ -9217,10 +9217,19 @@
   },
   "1113958095": {
     "youtube": "s8Ic4GaSAeg", "abs_start": 0, "abs_end": 33041, "duration": 33041,
-    "name": "ColdSide / Almost My Floor / SCP Terror Hunt",
+    "name": "ColdSide / Almost My Floor #1 / SCP Terror Hunt #1",
     "date": "2021-08-10",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1113958095.torrent",
-    "games": ["first"],
+    "games": ["first", "amfloor", "scp-terror-hunt"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1113958095.ass"
+  },
+  "1114974794": {
+    "abs_start": 0, "abs_end": 22207, "duration": 0,
+    "name": "Glitchpunk / Almost My Floor #2 / SCP Terror Hunt #2",
+    "date": "2021-08-11",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1114974794.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1114974794.torrent",
+    "games": ["first", "amfloor", "scp-terror-hunt"],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1114974794.ass"
   }
 }
