@@ -8761,8 +8761,6 @@
     "abs_start": 0, "abs_end": 5865, "duration": 0,
     "name": "",
     "date": "2021-06-12",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1053861574.mp4",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1053861574.torrent",
     "games": [],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1053861574.ass"
   },
@@ -8789,7 +8787,6 @@
     "name": "Ratchet & Clank: Rift Apart #2 / неПрофессиональный E3 2021 - Ubisoft Forward / неПрофессиональный E3 2021 - Devolver Digital / неПрофессиональный E3 2021 - Gearbox",
     "date": "2021-06-12",
     "offsets": [0, 5817, 15002],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1053861574,1053916259,1054022725.torrent",
     "games": ["rc-rift-apart", "e3_2021"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/generated/v1053861574,1053916259,1054022725+0.ass"
   },
@@ -9192,7 +9189,7 @@
   },
   "1108872519": {
     "youtube": "xqLNOG_wez0", "abs_start": 0, "abs_end": 29305, "duration": 29305,
-    "name": "LiBER / Сетапы зрителей #7 / Back 4 Blood #1",
+    "name": "LiBER / Сетапы зрителей #7 / Back 4 Blood #1 (Артём, Даша, Таня)",
     "date": "2021-08-05",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1108872519.torrent",
     "games": ["first", "setups", "b4b"],
@@ -9200,7 +9197,7 @@
   },
   "1109866143": {
     "youtube": "i1XHET0r508", "abs_start": 0, "abs_end": 23298, "duration": 23298,
-    "name": "Trenches / GeoGuessr #10 / Back 4 Blood #2",
+    "name": "Trenches / GeoGuessr #10 / Back 4 Blood #2 (Артём, Даша, Таня)",
     "date": "2021-08-06",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1109866143.torrent",
     "games": ["single", "geoguessr", "b4b"],
@@ -9229,5 +9226,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1114974794.torrent",
     "games": ["first", "amfloor", "scp-terror-hunt"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1114974794.ass"
+  },
+  "1115988176": {
+    "abs_start": 0, "abs_end": 29604, "duration": 0,
+    "name": "Розыгрыш Final Fantasy / SCP Terror Hunt #3 / Back 4 Blood #3 (Артём, Дима)",
+    "date": "2021-08-12",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1115988176.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1115988176.torrent",
+    "games": ["events", "scp-terror-hunt", "b4b"],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1115988176.ass"
   }
 }

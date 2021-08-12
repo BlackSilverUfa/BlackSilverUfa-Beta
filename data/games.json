@@ -315,8 +315,9 @@
     "category": "co-op",
     "id": "b4b",
     "streams": [
-      { "name": "1", "segment": "1108872519", "start": 18513 },
-      { "name": "2", "segment": "1109866143", "start": 11142 }
+      { "name": "1 (Артём, Даша, Таня)", "segment": "1108872519", "start": 18513 },
+      { "name": "2 (Артём, Даша, Таня)", "segment": "1109866143", "start": 11142 },
+      { "name": "3 (Артём, Дима)", "segment": "1115988176", "start": 21488 }
     ]
   },
   {
@@ -1932,7 +1933,8 @@
       { "name": "Игровые коллекции зрителей", "segment": "975061581", "start": 9662 },
       { "name": "Розыгрыш ROG Gladius III", "segment": "1025736815" },
       { "name": "Розыгрыш Resident Evil Village", "segment": "1054943681" },
-      { "name": "Розыгрыш Dying Light", "segment": "1081385499,1081403044" }
+      { "name": "Розыгрыш Dying Light", "segment": "1081385499,1081403044" },
+      { "name": "Розыгрыш Final Fantasy", "segment": "1115988176" }
     ]
   },
   {
@@ -2240,7 +2242,8 @@
     "id": "scp-terror-hunt",
     "streams": [
       { "name": "1", "segment": "1113958095", "start": 16668 },
-      { "name": "2", "segment": "1114974794", "start": 16524 }
+      { "name": "2", "segment": "1114974794", "start": 16524 },
+      { "name": "3", "segment": "1115988176", "start": 7782 }
     ]
   },
   {
