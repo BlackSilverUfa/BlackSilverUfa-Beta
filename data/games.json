@@ -426,7 +426,8 @@
       { "name": "2", "segment": "781406533", "start": 4301 },
       { "name": "3 (с Джеком)", "segment": "782383170" },
       { "name": "4 (с Джеком и Дашей)", "segment": "784351602" },
-      { "name": "5 (с Артёмом, Джеком и Gamelife)", "segment": "786440219", "start": 7880 }
+      { "name": "5 (с Артёмом, Джеком и Gamelife)", "segment": "786440219", "start": 7880 },
+      { "name": "6 (с Куплиновым и Дангаром)", "segment": "1117002114", "start": 8954 }
     ]
   },
   {
@@ -2233,7 +2234,8 @@
       { "name": "LiBER", "segment": "1108872519" },
       { "name": "NEO: The World Ends with You", "segment": "1111966540" },
       { "name": "ColdSide", "segment": "1113958095" },
-      { "name": "Glitchpunk", "segment": "1114974794" }
+      { "name": "Glitchpunk", "segment": "1114974794" },
+      { "name": "VoidTrain", "segment": "1117002114" }
     ]
   },
   {
