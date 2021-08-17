@@ -8790,7 +8790,6 @@
     "youtube": "jpY7X2Ed0zs", "official": false, "abs_start": 0, "abs_end": 9060, "duration": 9060,
     "name": "Розыгрыш Resident Evil Village / Chivalry 2 #4 (часть 1)",
     "date": "2021-06-13",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1054943681.torrent",
     "games": ["events", "chivalry-2"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1054943681.ass"
   },
@@ -9246,5 +9245,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1119090442.torrent",
     "games": ["bigfoot", "chivalry-2"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1119090442.ass"
+  },
+  "1120971330": {
+    "abs_start": 0, "abs_end": 22080, "duration": 0,
+    "name": "Humankind / Road 96",
+    "date": "2021-08-17",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1120971330.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1120971330.torrent",
+    "games": ["first"],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1120971330.ass"
   }
 }
