@@ -8797,7 +8797,6 @@
     "youtube": "ABbPIh-xKlQ", "official": false, "abs_start": 0, "abs_end": 31230, "duration": 31230,
     "name": "Chivalry 2 #4 (часть 2) / неПрофессиональный E3 2021 - Xbox & Bethesda Showcase / неПрофессиональный E3 2021 - Square Enix Presents / неПрофессиональный E3 2021 - PC Gaming Show / неПрофессиональный E3 2021 - Future Games Show",
     "date": "2021-06-13",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1055052153.torrent",
     "games": ["chivalry-2", "e3_2021"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1055052153.ass"
   },
@@ -9248,10 +9247,19 @@
   },
   "1120971330": {
     "youtube": "N7fS2Konq8M", "abs_start": 0, "abs_end": 22032, "duration": 22032,
-    "name": "Humankind / Road 96",
+    "name": "Humankind / Road 96 #1",
     "date": "2021-08-17",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1120971330.torrent",
-    "games": ["first"],
+    "games": ["first", "road-96"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1120971330.ass"
+  },
+  "1122010713": {
+    "abs_start": 0, "abs_end": 22550, "duration": 0,
+    "name": "15 лет Republic of Gamers / Road 96 #2",
+    "date": "2021-08-18",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1122010713.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1122010713.torrent",
+    "games": ["other", "road-96"],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1122010713.ass"
   }
 }

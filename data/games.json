@@ -1889,7 +1889,8 @@
       { "name": "Трейлеры и нарезки", "segment": "687309207" },
       { "name": "Клаустрофобия - The Dark Pictures: Little Hope", "segment": "784351602", "start": 13760 },
       { "name": "Тест Xbox Series X", "segment": "793751031" },
-      { "name": "Трейлеры и арты", "segment": "895436223" }
+      { "name": "Трейлеры и арты", "segment": "895436223" },
+      { "name": "15 лет Republic of Gamers", "segment": "1122010713" }
     ]
   },
   {
@@ -2238,7 +2239,16 @@
       { "name": "ColdSide", "segment": "1113958095" },
       { "name": "Glitchpunk", "segment": "1114974794" },
       { "name": "VoidTrain", "segment": "1117002114" },
-      { "name": "Humankind / Road 96", "segment": "1120971330" }
+      { "name": "Humankind", "segment": "1120971330" }
+    ]
+  },
+  {
+    "name": "Road 96",
+    "category": "finished",
+    "id": "road-96",
+    "streams": [
+      { "name": "1", "segment": "1120971330", "start": 12489 },
+      { "name": "2", "segment": "1122010713", "start": 4762 }
     ]
   },
   {
