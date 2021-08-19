@@ -8804,7 +8804,6 @@
     "youtube": "cXwBpbTxdIg", "official": false, "abs_start": 0, "abs_end": 25426, "duration": 25426,
     "name": "неПрофессиональный E3 2021 - Take-Two Interactive / Chivalry 2 #5 / неПрофессиональный E3 2021 - Capcom",
     "date": "2021-06-14",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1055969948.torrent",
     "games": ["e3_2021", "chivalry-2"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1055969948.ass"
   },
@@ -9260,5 +9259,14 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1122010713.torrent",
     "games": ["other", "road-96"],
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1122010713.ass"
+  },
+  "1123005766": {
+    "abs_start": 0, "abs_end": 27177, "duration": 0,
+    "name": "SCP Terror Hunt #4 / Twelve Minutes",
+    "date": "2021-08-19",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1123005766.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1123005766.torrent",
+    "games": ["scp-terror-hunt", "single"],
+    "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1123005766.ass"
   }
 }
