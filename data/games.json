@@ -428,7 +428,8 @@
       { "name": "3 (с Джеком)", "segment": "782383170" },
       { "name": "4 (с Джеком и Дашей)", "segment": "784351602" },
       { "name": "5 (с Артёмом, Джеком и Gamelife)", "segment": "786440219", "start": 7880 },
-      { "name": "6 (с Куплиновым и Дангаром)", "segment": "1117002114", "start": 8954 }
+      { "name": "6 (с Куплиновым и Дангаром)", "segment": "1117002114", "start": 8954 },
+      { "name": "7 (с Куплиновым и Дангаром)", "segment": "1125116646", "start": 3924 }
     ]
   },
   {
@@ -1965,7 +1966,8 @@
       { "name": "ROG Flow X13", "segment": "962439245" },
       { "name": "ROG Gladius III", "segment": "1017725694" },
       { "name": "Sony BloggerCam ZV-1", "segment": "1065051420" },
-      { "name": "ROG Phone 5", "segment": "1066067703" }
+      { "name": "ROG Phone 5", "segment": "1066067703" },
+      { "name": "ROG Zephyrus G14 Alan Walker", "segment": "1125116646" }
     ]
   },
   {
@@ -2231,7 +2233,7 @@
       { "name": "Dying Light", "segment": "1073309664" },
       { "name": "Black Skylands", "segment": "1081385499,1081403044", "start": 6522 },
       { "name": "Death's Door / Underwater / Raid: Shadow Legends", "segment": "1092418023" },
-      { "name": "Noosphere / Ghost Hunters Corp", "segment": "1095567001,1095811167" },
+      { "name": "Noosphere", "segment": "1095567001,1095811167" },
       { "name": "Microsoft Flight Simulator / The Ascent", "segment": "1102702263" },
       { "name": "Star Wars - Redemption", "segment": "1105750453" },
       { "name": "HighFleet / Deca", "segment": "1106771829" },
@@ -2241,6 +2243,15 @@
       { "name": "Glitchpunk", "segment": "1114974794" },
       { "name": "VoidTrain", "segment": "1117002114" },
       { "name": "Humankind", "segment": "1120971330" }
+    ]
+  },
+  {
+    "name": "Ghost Hunters Corp",
+    "category": "infinite",
+    "id": "ghcorp",
+    "streams": [
+      { "name": "1", "segment": "1095567001,1095811167", "start": 18448 },
+      { "name": "2", "segment": "1125116646", "start": 13237 }
     ]
   },
   {
