@@ -298,7 +298,7 @@
       { "name": "Escape Game Fort Boyard / Escape From Skull Dungeon", "segment": "738885129", "start": 8078 },
       { "name": "Serious Sam 4", "segment": "749640613", "start": 8748 },
       { "name": "Second Extinction", "segment": "770075059", "start": 14751 },
-      { "name": "Cake Bash / Bake 'n Switch / Never Breakup / Labyrinthine / Escape From Kyoto House", "segment": "795935885", "start": 16593 },
+      { "name": "Cake Bash / Bake 'n Switch / Never Breakup / Escape From Kyoto House", "segment": "795935885", "start": 16593 },
       { "name": "In Silence", "segment": "827759529", "start": 8249 },
       { "name": "Granny Simulator", "segment": "855161482", "start": 5284 },
       { "name": "Hand Simulator: Horror", "segment": "895496717", "start": 4891 },
@@ -307,7 +307,17 @@
       { "name": "Just Die Already / A House of Thieves", "segment": "1031432095" },
       { "name": "The Red Solstice 2: Survivors", "segment": "1059978031" },
       { "name": "Dungeons & Dragons: Dark Alliance", "segment": "1065051420", "start": 7630 },
-      { "name": "Camping Simulator / The Greatest Penguin Heist of All Time / Haunt Chaser", "segment": "1111966540", "start": 9894 }
+      { "name": "Camping Simulator / The Greatest Penguin Heist of All Time / Haunt Chaser", "segment": "1111966540", "start": 9894 },
+      { "name": "Chased by Darkness", "segment": "1125993129", "start": 17602 }
+    ]
+  },
+  {
+    "name": "Labyrinthine",
+    "category": "co-op",
+    "id": "labyrinthine",
+    "streams": [
+      { "name": "1", "segment": "795935885", "start": 22051 },
+      { "name": "2", "segment": "1125993129", "start": 22441 }
     ]
   },
   {
@@ -692,12 +702,13 @@
     ]
   },
   {
-    "name": "Half Dead 2",
+    "name": "Half Dead",
     "category": "co-op",
-    "id": "half-dead-2",
+    "id": "half-dead",
     "streams": [
-      { "name": "1", "segment": "389704750", "start": 4953 },
-      { "name": "2", "segment": "452195101", "start": 11238 }
+      { "name": "Часть 2 #1", "segment": "389704750", "start": 4953 },
+      { "name": "Часть 2 #2", "segment": "452195101", "start": 11238 },
+      { "name": "Часть 3", "segment": "1125993129", "start": 15237 }
     ]
   },
   {
@@ -1620,7 +1631,6 @@
       { "name": "House on the Hill", "segment": "695229266", "start": 7618 },
       { "name": "There Are Ghosts in These Stalls / The Baby in Yellow / Lapso: NIMBO / Redundancy / Re:Turn (демо)", "segment": "697191590", "start": 4656 },
       { "name": "UnMetal (демо)", "segment": "700057034" },
-      { "name": "Ghost of Tsushima", "segment": "681457263,682267155,683282462" },
       { "name": "Contraband Police (демо)", "segment": "749640613" },
       { "name": "Xuan-Yuan Sword VII (демо) / Webbed (демо)", "segment": "767249770" },
       { "name": "Amnesia: Rebirth", "segment": "775167526,776153173" },
@@ -1651,6 +1661,15 @@
       { "name": "Z Mutants / Summer of '58 / From Day To Day (демо)", "segment": "1099599998" },
       { "name": "Trenches", "segment": "1109866143" },
       { "name": "Twelve Minutes", "segment": "1123005766", "start": 10717 }
+    ]
+  },
+  {
+    "name": "Ghost of Tsushima",
+    "category": "finished",
+    "id": "tsushima",
+    "streams": [
+      { "name": "Прохождение", "segment": "681457263,682267155,683282462" },
+      { "name": "Director's Cut", "segment": "1125993129" }
     ]
   },
   {
