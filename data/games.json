@@ -308,7 +308,8 @@
       { "name": "The Red Solstice 2: Survivors", "segment": "1059978031" },
       { "name": "Dungeons & Dragons: Dark Alliance", "segment": "1065051420", "start": 7630 },
       { "name": "Camping Simulator / The Greatest Penguin Heist of All Time / Haunt Chaser", "segment": "1111966540", "start": 9894 },
-      { "name": "Chased by Darkness", "segment": "1125993129", "start": 17602 }
+      { "name": "Chased by Darkness", "segment": "1125993129", "start": 17602 },
+      { "name": "Aliens: Fireteam Elite", "segment": "1127979772" }
     ]
   },
   {
@@ -1219,7 +1220,8 @@
       { "name": "ROG Phone 5 Launch Event", "segment": "943938218" },
       { "name": "Square Enix Presents (Весна 2021)", "segment": "953865835", "start": 11085 },
       { "name": "Resident Evil Showcase (Апрель 2021)", "segment": "988804108", "start": 1627 },
-      { "name": "WitcherCon", "segment": "1081385499,1081403044", "start": 14495 }
+      { "name": "WitcherCon", "segment": "1081385499,1081403044", "start": 14495 },
+      { "name": "Gamescom 2021 - Xbox", "segment": "1127979772", "start": 14509 }
     ]
   },
   {
