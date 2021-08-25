@@ -1220,8 +1220,16 @@
       { "name": "ROG Phone 5 Launch Event", "segment": "943938218" },
       { "name": "Square Enix Presents (Весна 2021)", "segment": "953865835", "start": 11085 },
       { "name": "Resident Evil Showcase (Апрель 2021)", "segment": "988804108", "start": 1627 },
-      { "name": "WitcherCon", "segment": "1081385499,1081403044", "start": 14495 },
-      { "name": "Gamescom 2021 - Xbox", "segment": "1127979772", "start": 14509 }
+      { "name": "WitcherCon", "segment": "1081385499,1081403044", "start": 14495 }
+    ]
+  },
+  {
+    "name": "Gamescom 2021",
+    "category": "expos",
+    "id": "gamescom-21",
+    "streams": [
+      { "name": "Xbox Stream", "segment": "1127979772", "start": 14509 },
+      { "name": "Opening Night Live", "segment": "1128973572,1129122818", "start": 17101 }
     ]
   },
   {
@@ -2263,7 +2271,8 @@
       { "name": "ColdSide", "segment": "1113958095" },
       { "name": "Glitchpunk", "segment": "1114974794" },
       { "name": "VoidTrain", "segment": "1117002114" },
-      { "name": "Humankind", "segment": "1120971330" }
+      { "name": "Humankind", "segment": "1120971330" },
+      { "name": "Bum Simulator / King's Bounty 2", "segment": "1128973572,1129122818" }
     ]
   },
   {
