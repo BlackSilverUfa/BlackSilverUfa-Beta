@@ -308,8 +308,16 @@
       { "name": "The Red Solstice 2: Survivors", "segment": "1059978031" },
       { "name": "Dungeons & Dragons: Dark Alliance", "segment": "1065051420", "start": 7630 },
       { "name": "Camping Simulator / The Greatest Penguin Heist of All Time / Haunt Chaser", "segment": "1111966540", "start": 9894 },
-      { "name": "Chased by Darkness", "segment": "1125993129", "start": 17602 },
-      { "name": "Aliens: Fireteam Elite", "segment": "1127979772" }
+      { "name": "Chased by Darkness", "segment": "1125993129", "start": 17602 }
+    ]
+  },
+  {
+    "name": "Aliens: Fireteam Elite",
+    "category": "co-op",
+    "id": "aliens-fe",
+    "streams": [
+      { "name": "1", "segment": "1127979772" },
+      { "name": "2", "segment": "1129996087", "start": 10981 }
     ]
   },
   {
@@ -1229,7 +1237,8 @@
     "id": "gamescom-21",
     "streams": [
       { "name": "Xbox Stream", "segment": "1127979772", "start": 14509 },
-      { "name": "Opening Night Live", "segment": "1128973572,1129122818", "start": 17101 }
+      { "name": "Opening Night Live", "segment": "1128973572,1129122818", "start": 17101 },
+      { "name": "Awesome Indies / Future Games Show", "segment": "1129996087", "start": 19049 }
     ]
   },
   {
@@ -2272,7 +2281,8 @@
       { "name": "Glitchpunk", "segment": "1114974794" },
       { "name": "VoidTrain", "segment": "1117002114" },
       { "name": "Humankind", "segment": "1120971330" },
-      { "name": "Bum Simulator / King's Bounty 2", "segment": "1128973572,1129122818" }
+      { "name": "Bum Simulator / King's Bounty 2", "segment": "1128973572,1129122818" },
+      { "name": "Riders Republic", "segment": "1129996087" }
     ]
   },
   {
