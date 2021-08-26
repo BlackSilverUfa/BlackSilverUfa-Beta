@@ -9303,10 +9303,9 @@
     "subtitles": "https://blackufa.thedrhax.pw/chats/2021/v1129122818.ass"
   },
   "1128973572,1129122818": {
-    "abs_start": 0, "abs_end": 26185, "duration": 0,
+    "youtube": "8vK2pgmHz7Q", "abs_start": 0, "abs_end": 25937, "duration": 25937,
     "name": "Bum Simulator / King's Bounty 2 / Gamescom 2021 - Opening Night Live",
     "date": "2021-08-25",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1128973572,1129122818.mp4",
     "offsets": [0, 13206],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1128973572,1129122818.torrent",
     "games": ["first", "gamescom-21"],
