@@ -308,7 +308,8 @@
       { "name": "The Red Solstice 2: Survivors", "segment": "1059978031" },
       { "name": "Dungeons & Dragons: Dark Alliance", "segment": "1065051420", "start": 7630 },
       { "name": "Camping Simulator / The Greatest Penguin Heist of All Time / Haunt Chaser", "segment": "1111966540", "start": 9894 },
-      { "name": "Chased by Darkness", "segment": "1125993129", "start": 17602 }
+      { "name": "Chased by Darkness", "segment": "1125993129", "start": 17602 },
+      { "name": "Call of Duty: Vanguard", "segment": "1130997492", "start": 11816 }
     ]
   },
   {
@@ -448,7 +449,8 @@
       { "name": "4 (с Джеком и Дашей)", "segment": "784351602" },
       { "name": "5 (с Артёмом, Джеком и Gamelife)", "segment": "786440219", "start": 7880 },
       { "name": "6 (с Куплиновым и Дангаром)", "segment": "1117002114", "start": 8954 },
-      { "name": "7 (с Куплиновым и Дангаром)", "segment": "1125116646", "start": 3924 }
+      { "name": "7 (с Куплиновым и Дангаром)", "segment": "1125116646", "start": 3924 },
+      { "name": "8", "segment": "1130997492", "start": 11816 }
     ]
   },
   {
@@ -2282,7 +2284,16 @@
       { "name": "VoidTrain", "segment": "1117002114" },
       { "name": "Humankind", "segment": "1120971330" },
       { "name": "Bum Simulator / King's Bounty 2", "segment": "1128973572,1129122818" },
-      { "name": "Riders Republic", "segment": "1129996087" }
+      { "name": "Return to Nangrim (демо) / ANNO: Mutationem (демо)", "segment": "1130997492", "start": 4300 }
+    ]
+  },
+  {
+    "name": "Riders Republic",
+    "category": "infinite",
+    "id": "riders-republic",
+    "streams": [
+      { "name": "1", "segment": "1129996087" },
+      { "name": "2", "segment": "1130997492" }
     ]
   },
   {
