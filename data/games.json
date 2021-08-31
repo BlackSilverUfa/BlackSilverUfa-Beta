@@ -309,7 +309,8 @@
       { "name": "Dungeons & Dragons: Dark Alliance", "segment": "1065051420", "start": 7630 },
       { "name": "Camping Simulator / The Greatest Penguin Heist of All Time / Haunt Chaser", "segment": "1111966540", "start": 9894 },
       { "name": "Chased by Darkness", "segment": "1125993129", "start": 17602 },
-      { "name": "Call of Duty: Vanguard", "segment": "1130997492", "start": 11816 }
+      { "name": "Call of Duty: Vanguard", "segment": "1130997492", "start": 11816 },
+      { "name": "KeyWe", "segment": "1134934289", "start": 16937 }
     ]
   },
   {
@@ -1231,7 +1232,8 @@
       { "name": "ROG Phone 5 Launch Event", "segment": "943938218" },
       { "name": "Square Enix Presents (Весна 2021)", "segment": "953865835", "start": 11085 },
       { "name": "Resident Evil Showcase (Апрель 2021)", "segment": "988804108", "start": 1627 },
-      { "name": "WitcherCon", "segment": "1081385499,1081403044", "start": 14495 }
+      { "name": "WitcherCon", "segment": "1081385499,1081403044", "start": 14495 },
+      { "name": "Dead Space Remake Dev Stream", "segment": "1134934289", "start": 14246 }
     ]
   },
   {
@@ -1981,7 +1983,8 @@
       { "name": "Розыгрыш ROG Gladius III", "segment": "1025736815" },
       { "name": "Розыгрыш Resident Evil Village", "segment": "1054943681" },
       { "name": "Розыгрыш Dying Light", "segment": "1081385499,1081403044" },
-      { "name": "Розыгрыш Final Fantasy", "segment": "1115988176" }
+      { "name": "Розыгрыш Final Fantasy", "segment": "1115988176" },
+      { "name": "Розыгрыш Hades", "segment": "1134934289", "start": 6676 }
     ]
   },
   {
@@ -2718,7 +2721,8 @@
     "id": "hades",
     "streams": [
       { "name": "1", "segment": "747742325", "start": 5089 },
-      { "name": "2 (без комментариев)", "segment": "858724132" }
+      { "name": "2 (без комментариев)", "segment": "858724132" },
+      { "name": "3 (PS5)", "segment": "1134934289" }
     ]
   },
   {
